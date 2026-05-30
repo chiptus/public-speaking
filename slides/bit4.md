@@ -40,7 +40,7 @@
 ### Slide 21 — Looked done. Bugs. Paused.
 
 - **Visual:** "Looked done. Bugs. Paused." — minimal
-- **Notes:** Don't dramatize. It looked finished — it wasn't. Bugs → project paused (~2 months ago), recently resumed. State it.
+- **Notes:** Don't dramatize. It looked finished — it wasn't. Bugs → project paused (~2 months ago), recently resumed. State it. **The attribution beat (spoken, no taxonomy):** in a long migration every bug gets blamed on the migration, and a bug pinned on it carries more fear than the same bug would otherwise — that fear, not the bug alone, is what paused the project. Keep it honest with a boundary: there's no clean "they blamed us unfairly" story — when it broke, it was often genuinely the migration. Vulnerability with a limit, no victim narrative.
 
 ### Slide 22 — The method
 
@@ -49,7 +49,7 @@
 
 ### Slide 23 — The dashboard, full-screen (the 50%)
 
-- **Visual:** The same dashboard from Slide 19, now **full-screen**, focused on the ~50%. Speaker provides.
+- **Visual:** The same dashboard from Slide 19, now **full-screen**, focused on the ~50%. Speaker provides. **No corner ship here** — the motif drops away so the dashboard goes full-bleed. The break is the signal: this slide is real, not metaphor. (Data-dense slides drop the corner ship generally; 23 is the clearest case — see `ship-visual-system.md`.)
 - **Notes:** The closing image of the bit — the number lands here, with weight, because the audience has earned it (met the dashboard small on the Return, now sees the verdict). Said over it: still migrating, still progressing, still learning, ~50% still ahead. This is the _proof_ of Bit 1's claim ("a story without an end") — theme planted at the open, evidence delivered here. The number now lives in Bit 4, NOT the opening and NOT Bit 5's close (Bit 5 lands on the honest answer instead).
 
 ---

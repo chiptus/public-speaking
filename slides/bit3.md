@@ -1,9 +1,9 @@
 # Bit 3 — Living with Mixed Code (Slides 11–14)
 
-## Slide 11 — Mid-flight
+## Slide 11 — Swapping the engine at sea
 
-- **Visual:** Image of a plane in flight — no text, or minimal: "mid-flight"
-- **Notes:** Engine mid-flight while someone asks for first class. Speaker delivers both lines verbally. Image only — no text duplication.
+- **Visual:** A ship at sea with its engine being swapped mid-voyage — the PO leaning over the rail asking for a new deck. No text, or minimal. Speaker sources the image.
+- **Notes:** The operational constraint — you can't stop the running system. The ship is the talk's single unified metaphor (established in Bit 1, Ship of Theseus), now shown in its working state — no competing plane. Speaker delivers both lines verbally. ("new deck" = ship deck / slide deck pun — English only, optional.) Image only — no text duplication.
 
 ## Slide 12 — Two versions of the same component
 
@@ -27,4 +27,4 @@
 - [אנושי] moments (silence asymmetry, stolen time) removed from Bit 3 — placement TBD in Bit 5 planning
 - Slide 12: code snippet approved (ng-transclude vs children prop)
 - Slide 13: code or diagram — speaker to decide
-- Analogy: engine mid-flight (not Ship of Theseus)
+- Analogy: swapping the engine at sea — the ship is the talk's single metaphor (Bit 1 Ship of Theseus); the competing plane was removed

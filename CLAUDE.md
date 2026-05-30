@@ -6,6 +6,7 @@ Books on TED-style talks, storytelling frameworks, brand narrative, and deliveri
 
 - no walls of text. if something isn't clear I'll ask
 - criticize, think outside the box, tell me if I'm wrong.
+- The talk is a 30–40 min technical talk, NOT a TED talk. Favor depth over cutting — teaching code/details is allowed. Primary reference: Giving a 30-Minute Tech Talk (not Anderson/Gallo). Story principles (one spine, real vulnerability, don't announce the moral) still apply; TED-specific rules (18-min cut, Rule of Three, no slides) do not.
 
 ---
 

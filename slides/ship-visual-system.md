@@ -22,7 +22,7 @@ The ship is **always whole and sailing.** Progress = planks changing **color** (
 
 ## States across the deck
 
-- **Slide 1 — big, whole, all-grey (0%), sailing. No text.** Establishes the silhouette so the corner meter is legible. The Theseus question is **spoken, not printed** — the image poses it, the voice asks it.
+- **Slide 1 — big, whole, all-grey (0%), sailing. No text.** Establishes the silhouette so the corner meter is legible. The question is **spoken, not printed** — the image poses it, the voice asks it. **Say the paradox, never the name:** speak the plank question ("replace every plank, one by one — still the same ship?") and bridge to the app; do **not** say "Ship of Theseus" aloud (the label reads as learned/academic, not visceral — Anderson).
 - **Corner, every slide — fills grey→green bit by bit**, reaching **~half green by the close** (= the 50% from the Bit 4 dashboard). Wordless.
 - **Closing card after Slide 24 — big, ~half-green, sailing, wordless.** Literal last image; holds through Q&A. NOT full/finished — a finished ship would claim a completion that didn't happen and restore the cut victory lap.
 

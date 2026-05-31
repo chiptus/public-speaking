@@ -16,18 +16,18 @@ Three places to look, all near the **opening and the close**:
 
 **Do these two — they recover symmetry without rebuilding the victory lap:**
 
-- [ ] **#1 — Add a promise to the "no ending" open.** One half-line that turns open-endedness into the point (e.g. "…and that's the right answer to the question I just asked"). Slide 2. Cheapest, no downside.
-- [ ] **#2 — Recover the ship-question callback at the close, _spoken and enacted_.** The half-rebuilt ship ("still sailing, still rebuilding") does the symmetry without restating the question as text. Note: this is the **ship** question (Slide 1), _not_ the React question — keep React→Q&A as you locked it. No conflict.
+- [~] **#1 — Add a promise to the "no ending" open.** ⚠️ CONSIDERED, REJECTED. The suggested callback line is a slogan (announces its own cleverness) and half-answers the question Slide 1 deliberately leaves open. This is TED/Anderson polish imported into a non-TED talk. Handled instead by *delivery* — say "this is not a story with an ending" as a confident thesis, not an apology (`bit1.md` Slide 2 notes). No added line.
+- [x] **#2 — Recover the ship-question callback at the close, _spoken and enacted_.** ✅ DONE in the ship session — the wordless half-green sailing closing card after Slide 24 *is* the enacted callback ("still sailing, still rebuilding"). React→Q&A kept. See `ship-visual-system.md`.
 
 **Consider, but don't over-correct:**
 
 - [ ] **Reconnect bits 3–4 to the spine (replaces old "state the throughline").** The craft (refactor-not-translation) should visibly serve people/momentum: it's _what let a 2–3-person spare-time effort sustain five years_. Enact this connection; **do not** add a throughline sentence or poster slide.
-- [ ] **#4 — Give Slide 24 a visual anchor.** It sits on screen the whole Q&A; two columns of short phrases are too thin. The ship resolves it — but it collides with the two-half text decision. Decide: ship-as-anchor (reflection goes spoken) _or_ reflection-stays + ship-as-separate-closing-card.
+- [x] **#4 — Give Slide 24 a visual anchor.** ✅ RESOLVED in the ship session — chose reflection-stays + **separate wordless closing ship card** after it (the card, not the text, holds through Q&A). See `bit5.md` Finale + `ship-visual-system.md`.
 
 **Trivial / mechanical:**
 
-- [ ] **Slide 13: pick the diagram, not the code** (`scope.$evalAsync`) — "prioritize intuitions over technical minutiae."
-- [ ] **Check the dwell-heavy text slides (14, 22, 24)** — at 24 slides / 35 min you're under 1/min, so these hold 2–3 min each. Make each earn it.
+- [x] **Slide 13: pick the diagram, not the code** (`scope.$evalAsync`) — ✅ DONE in `bit3.md`: data-flow arrows (`data ⇄ view` vs `data → view`), code dropped.
+- [ ] **Check the dwell-heavy text slides (14, 22, 24)** — at 24 slides / 35 min you're under 1/min, so these hold 2–3 min each. Make each earn it. *(Still open — a delivery/rehearsal check, not a fix.)*
 
 ---
 
@@ -132,6 +132,12 @@ Trivial: Slide 13 → diagram; check dwell on slides 14/22/24.
 
 # Addendum — Ship motif as a recurring visual
 
+> ⚠️ **SUPERSEDED (2026-05-30) by `slides/ship-visual-system.md`.** This addendum is kept for history; the ship session deliberately diverged from it in three places:
+> - **No seam/transition cards** (this addendum's 2→3, 3→4 cards) — a *corner color-fill progress meter* (grey→green) on most slides does the orientation instead.
+> - **Ship OFF Slide 23** — the dashboard peak stays pure documentary; this addendum's "pair the ship with the dashboard" was rejected.
+> - **Slide 1 is wordless** — the Theseus question is spoken, not printed over the ship.
+> Read `ship-visual-system.md` for the live system; treat the per-state notes below as non-authoritative.
+
 **Decision context:** the ship is one _unified_ metaphor across the talk, not decoration. Bit 3's analogy is the ship itself (replace the engine at sea while the PO asks for a new deck) — so there's no competing "plane" metaphor. Fix needed: `bit3.md` Slide 11 currently says "plane in flight / engine mid-flight / first class" and "(not Ship of Theseus)" — change it to the ship.
 
 **Principle:** Ernst endorses a recurring orientation visual for 30+ min talks. Use the ship at the **seams (bit boundaries) + the two bookends** — 5 states, not 24. Keep it **off** the real-artifact slides (4, 16, 18, 23) so the screenshots keep their documentary weight; the only exception is the ship's own _meaning_ slide at the 50% (see Slide 23 note).
@@ -182,12 +188,12 @@ The prose skeleton (the script) is **more book-aligned than the deck in its inst
 
 ## Five things to reconcile (book-grounded)
 
-1. **The ship/plane clash is still in the script — unresolved.** Line 40 (Bit 1) names _Ship of Theseus_; line 74 (Bit 3) is still _"replacing an engine mid-**flight** — while asked to add **first class**"_ (a plane). Both the skeleton **and** `bit3.md` contradict the ship-unification you want (engine at sea + PO asks for a new deck). Two edits, same change — and neither file has it yet.
+1. ~~**The ship/plane clash is still in the script — unresolved.**~~ ✅ **RESOLVED (review was stale).** Skeleton Bit 3 analogy now reads "החלפת מנוע בלב ים … סיפון חדש … אותה ספינה … בלי מטוס מתחרה"; `bit3.md` Slide 11 is "Swapping the engine at sea." Both files carry the ship; no plane remains.
 
-2. **Naming "Ship of Theseus" aloud (line 40).** Fine as a speaker note; Anderson's caution is that the philosophical name-drop can read "learned rather than visceral." Decide deliberately whether you _say the words_ or only _show the rebuilt ship_.
+2. ~~**Naming "Ship of Theseus" aloud (line 40).**~~ ✅ **RESOLVED — decided: say the paradox, not the name.** Speak the plank question and bridge to the app; do not say "Ship of Theseus" aloud. Applied to `bit1.md` Slide 1, skeleton Bit 1 analogy, and `ship-visual-system.md`.
 
-3. **Skeleton vs. deck disagree on the dashboard — the deck is more honest.** Skeleton line 114: _"measurement as a condition for continuing."_ `bit4.md` Slide 19: _"a tool to know where things stand, NOT a disciplined measurement beat — mostly vibe-coded."_ Your restraint rule (line 14) favors the deck's version; "measurement as a condition" is the tidy arc you keep cutting. Pick one — the honest one already lives in the deck.
+3. ~~**Skeleton vs. deck disagree on the dashboard.**~~ ✅ **RESOLVED.** Skeleton's _"מדידה כתנאי להמשך"_ (measurement as a condition) replaced with the deck's honest version — _"כלי לדעת איפה הדברים עומדים — לא מדידה ממושמעת, רובו vibe-coded."_ Skeleton and `bit4.md` Slide 19 now agree.
 
 4. **Timing under-runs the target.** Per-bit budgets sum to **24–30 min** (4–5 ×4 + 8–10); stated target is 32–35 min content. You're 2–5 min light on paper. Either bits expand in delivery (likely) or there's room to deepen the **core (Bit 4)**, not the framing. Use Ernst's 10/20/25-min rehearsal checkpoints to calibrate.
 
-5. **The hook has no promise (same as the deck).** Line 34 = _"We started five years ago. This is not a story with an ending."_ §1's fix applies identically — pair it with the half-line that makes open-endedness the point.
+5. **The hook has no promise (same as the deck).** ⚠️ Same call as #1 — the added-line fix was **rejected** as a slogan; handled via delivery (confident thesis, not apology). No script change.

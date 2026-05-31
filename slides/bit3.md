@@ -26,5 +26,4 @@
 
 - [אנושי] moments (silence asymmetry, stolen time) removed from Bit 3 — placement TBD in Bit 5 planning
 - Slide 12: code snippet approved (ng-transclude vs children prop)
-- Slide 13: code or diagram — speaker to decide
 - Analogy: swapping the engine at sea — the ship is the talk's single metaphor (Bit 1 Ship of Theseus); the competing plane was removed

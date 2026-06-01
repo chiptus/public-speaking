@@ -3,7 +3,7 @@
 ## Slide 5 — Why it had to change
 
 - **Visual:** Three lines: _dead library · refactor needed anyway · new features coming_
-- **Notes:** EOL is the trigger, not the full case. Migration gave legitimacy to refactoring that couldn't justify itself alone.
+- **Notes:** **Open with the connective from Bit 1's mess** — _"it wasn't only the mess" / "וזה לא נגמר בבלגן"_ — so this reads as escalation, not a restart (the seam from Slide 4; no closing bridge in Bit 1). EOL is the trigger, not the full case. Migration gave legitimacy to refactoring that couldn't justify itself alone.
 
 ## Slide 6 — How it was decided
 

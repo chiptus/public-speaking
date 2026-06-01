@@ -40,7 +40,7 @@
 ### Slide 21 — Looked done. Bugs. Paused.
 
 - **Visual:** "Looked done. Bugs. Paused." — minimal
-- **Notes:** Don't dramatize. It looked finished — it wasn't. Bugs → project paused (~2 months ago), recently resumed. State it. **The attribution beat (spoken, no taxonomy):** in a long migration every bug gets blamed on the migration, and a bug pinned on it carries more fear than the same bug would otherwise — that fear, not the bug alone, is what paused the project. Keep it honest with a boundary: there's no clean "they blamed us unfairly" story — when it broke, it was often genuinely the migration. Vulnerability with a limit, no victim narrative.
+- **Notes:** Don't dramatize. It looked finished — it wasn't. Bugs → project paused (~2 months ago), recently resumed. State it. **The attribution beat (spoken, no taxonomy):** in a long migration every bug gets blamed on the migration, and a bug pinned on it carries more fear than the same bug would otherwise — that fear, not the bug alone, is what paused the project. Keep it honest with a boundary: there's no clean "they blamed us unfairly" story — when it broke, it was often genuinely the migration. Vulnerability with a limit, no victim narrative. _(This is the earned home for the "the migration didn't create the mess, it exposed it" idea that was cut from the Bit 1 open — same thought, lands here where the audience has lived it. Optional to voice; don't force it.)_
 
 ### Slide 22 — The method
 

@@ -1,24 +1,36 @@
 # Bit 1 — Opening (Slides 1–4)
 
-## Slide 1 — Ship of Theseus
+> ~3 min. Sets the spine; no payoff yet.
+> **Whole open: slow · full stops · let silence sit.** (Slide 3 is the one exception — brisk.)
+> 🔒 = learned word-for-word. Cues are glance-only, never spoken.
 
-- **Visual:** No text. The **big establishing ship — whole, all-grey (0% migrated), sailing** — alone, centered. This is the silhouette the corner progress ship references for the rest of the deck, and it's wordless like every other ship appearance.
-- **Notes:** All spoken, nothing on the slide. **Say the paradox, never the name** — don't say "Ship of Theseus" aloud (the philosophical label reads as learned, not visceral — Anderson); the plank question carries it without showing off. Say it in plain words, bridging the ship to the code:
-  - _"There's an old question — if you replace every plank of a ship, one by one, is it still the same ship?"_
-  - _"That's the question I had about our app — how do you rebuild it in a different language without changing it?"_
-  Then leave it open — don't answer here; it lands differently by the end. The image poses it, the voice asks it (enact, don't assert). The big grey ship also teaches the audience the full-ship shape so the small corner meter is legible later (a 30px corner glyph filling with React-green only reads as progress if they've seen the whole grey ship large once — see `ship-visual-system.md`).
+## Slide 1 — Ship (wordless)
+- **Visual:** Big grey ship, whole, sailing. No text.
+- **Notes:**
+  - **🔒 Verbatim:** > יש שאלה ישנה — אם מחליפים את כל הקרשים של ספינה, אחד אחד, האם זו עדיין אותה ספינה? זאת בדיוק השאלה ששאלתי על האפליקציה שלנו: איך בונים אותה מחדש בשפה אחרת — בלי לשנות אותה?
+  - _Cue:_ ask, then stop
 
 ## Slide 2 — Hook
-
-- **Visual:** "We started five years ago. This is not a story with an ending." Two large lines, centered, nothing else
-- **Notes:** Say it slow. Full stop after each sentence. Silence after the last line is part of the slide. **Deliver "this is not a story with an ending" as a confident thesis, not an apology** — the conviction is what tells the audience a payoff is coming; no extra "promise" line needed (a clever callback here would half-answer the question Slide 1 deliberately left open). **No number here** — "five years ago, still going" is the concrete grab; the 50% is deliberately withheld and lands at the Bit 4 close (the full-screen dashboard), where the audience understands its cost. Theme planted here, proof delivered there.
+- **Visual:** Two lines, centered, nothing else.
+- **Notes:**
+  - **🔒 Verbatim:** > התחלנו לפני חמש שנים להעביר את האפליקציה ל-React. זה לא סיפור עם סוף.
 
 ## Slide 3 — Self-intro
-
 - **Visual:** Chaim Lev-Ari / Software developer, Portainer.io
-- **Notes:** One sentence on Portainer verbally: מוצר לניהול קונטיינרים. Don't linger. Not a Portainer talk.
+- **Notes:**
+  - **🔒 Verbatim:** > שמי חיים, אני מפתח ב-Portainer מאז 2018 — פלטפורמה לניהול קונטיינרים.
+  - _Cue:_ brisk, don't linger
 
 ## Slide 4 — The codebase before
+- **Visual:** Screenshot of a real controller (speaker to capture). Feeling of scale, not reading code.
+- **Notes:**
+  - **🔒 Verbatim:** > אני מלווה את זה מההתחלה. ככה נראה הקוד שלנו ב-AngularJS לפני — קונטרולרים ענקיים, כמעט בלי קומפוננטות, הרבה כפילויות. המיגרציה לא יצרה את הבלגן, היא חשפה אותו.
+  - _Cue:_ land the last line
 
-- **Visual:** Screenshot of a real controller — to be captured by speaker
-- **Notes:** Goal is the feeling of scale, not reading the code. The migration didn't create this mess — it exposed it.
+## Design notes
+- Ship is enacted, never named "Ship of Theseus" aloud — the verbatim carries the paradox without the label (`talk-review.md`).
+- Stack is split across two slides: Slide 2 names the destination (React), Slide 4 names the source (AngularJS) on the actual old code. Neither slide carries the full "AngularJS → React".
+- Slide 2 hook works on the mismatch — a React migration that's taken 5+ years and still has no end. That question is the talk's pull. No number (the ~50%) here; it's withheld until the Bit 4 close. Deliver "no ending" as thesis, not apology.
+- Slide 3: "since 2018" replaces tenure math; the "left and came back" beat is deferred to the AI-fall section.
+- Slide 4 is the pivot: the change *reveals* the mess, doesn't create it — sets the spine.
+- Slide 1 grey ship teaches the full silhouette so the corner progress meter reads later (`ship-visual-system.md`).

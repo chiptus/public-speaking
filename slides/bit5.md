@@ -17,6 +17,10 @@
 
 - **Slide 24 stays exactly as above** — the two-half reflection, the scaffold that does the work. The reflection is NOT replaced by the ship.
 - **Then one wordless closing card after it: the big ship, ~half its planks React-green, sailing.** This is the literal last image and holds through Q&A. It is the close half of the open/close bookend (Slide 1 = whole, all-grey; close = whole, ~half-green, still sailing).
+- **🔒 SAY (verbatim) — the last words of the talk** (learned word-for-word; closes the ship bookend opened in `bit1.md` Slide 1):
+  > שאלנו אם זו עדיין אותה ספינה. היום היא חצי ישנה, חצי חדשה — עדיין שטה, עדיין נבנית.
+  >
+  > תודה. שאלות?
 - **Why this reopens the old "finale: none" without betraying its intent.** Finale-none was guarding against two things: (1) spending the ~50% number twice, and (2) ending triumphant / rebuilding a victory-lap bookend. A _wordless, half-built, still-sailing_ ship does neither — it shows no number, it isn't finished (work continues), and a ship mid-rebuild is _literally_ a story without an end. It serves finale-none's spirit better than the worded finale that decision was actually written to block.
 - **Why NOT a full/finished ship here.** A whole rebuilt ship would claim a completion that didn't happen — it contradicts the ~50% dashboard one bit earlier and silently restores the victory lap. Half-and-sailing is the honest image; full would be a lie. (See `ship-visual-system.md`.)
 - **Cost acknowledged:** this adds one card to the close. It is a wordless image, not a content slide — the single-forward-slide discipline (no second _content_ slide) still holds.

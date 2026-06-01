@@ -19,6 +19,7 @@
 
 - **Visual:** "This is not a transition phase." / "This is how it runs." / "For years." — three lines, large, centered
 - **Notes:** The key reframe. Say it as a fact. Not a complaint. Let it sit. Strong close for the bit.
+- **→ Bridge to Bit 4 (improvised, not verbatim):** _silence first — let S14 land, don't step on it._ Then pose the question: if this is the state for years, the real question isn't *whether* to migrate, it's *how* you migrate a view well — again and again. Opens S15 (Research). **Question only** — don't pre-state the "find the patterns" answer. Springs straight off S14, no reach-back.
 
 ---
 

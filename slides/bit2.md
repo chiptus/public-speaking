@@ -25,7 +25,7 @@
 - **Visual:** "TypeScript + Tailwind" large, clean
 - **Notes:** Merged in first PRs. Deferring foundations is compounding debt.
 
-## Slide 10 — Decisions in a vacuum
+## Slide 10 — Same surface, new engine
 
-- **Visual:** Title alone: "When you don't know what stays — everything becomes sacred"
-- **Notes:** The vacuum defaults to conservatism. Decide early what you're NOT keeping. One of the things Chaim would do differently.
+- **Visual:** Title alone: "אותו ממשק. מנוע חדש מתחת." _(Same surface. New engine underneath.)_
+- **Notes:** A decision, not a regret. We didn't redesign while migrating — held the UX identical and rebuilt the code beneath it. The migration wasn't product-driven, so there was no one to sanction UX changes; and changing the surface mid-migration would muddy attribution — you couldn't tell a regression from a redesign. Behavior-preserving, but still a full refactor underneath, not a translation (Bit 4 cashes this). Bridges to Bit 3: same ship, swap the engine.

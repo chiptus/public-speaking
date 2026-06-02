@@ -10,9 +10,10 @@ Tracking for both of us. **@me** = Claude, **@you** = Chaim. Keep it current.
 - [x] Slide 10 reframed: regret → "same surface, new engine" decision (`bit2.md`, commit `e1580b4`)
 - [x] Seam 2→3 — straight flow S10 → S11 (engine at sea), no reach-back
 - [x] Seam 3→4 — question-bridge off S14 (silence first), opens S15 Research (`bit3.md`)
+- [x] Seam 4→5 — forward-turn off S23 ~50%, opens S24, pre-empts regret (`bit4.md`)
 
 ## In progress
-- [ ] Seam 4→5 (S23 dashboard 50% → S24 reflection) — **@me, next**
+- _(nothing active — all four bit seams done)_
 
 ## Open decisions
 - [ ] Slide 9 (Foundations / TS+Tailwind) — full slide or fold to a bullet? (sub-agent flagged as weak) — **@you to call**

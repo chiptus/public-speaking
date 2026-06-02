@@ -51,6 +51,7 @@
 
 - **Visual:** The same dashboard from Slide 19, now **full-screen**, focused on the ~50%. Speaker provides. **No corner ship here** — the motif drops away so the dashboard goes full-bleed. The break is the signal: this slide is real, not metaphor. (Data-dense slides drop the corner ship generally; 23 is the clearest case — see `ship-visual-system.md`.)
 - **Notes:** The closing image of the bit — the number lands here, with weight, because the audience has earned it (met the dashboard small on the Return, now sees the verdict). Said over it: still migrating, still progressing, still learning, ~50% still ahead. This is the _proof_ of Bit 1's claim ("a story without an end") — theme planted at the open, evidence delivered here. The number now lives in Bit 4, NOT the opening and NOT Bit 5's close (Bit 5 lands on the honest answer instead).
+- **→ Bridge to Bit 5 (improvised, not verbatim):** _let the ~50% sit a beat._ Then turn forward: half the road is still ahead, so I think less about the path behind me and more about how I walk the rest. Opens S24. **Forward framing on purpose** — pre-empts S24's first half being heard as regret. Don't name the two halves (that's S24's title) or state the answers; springs off the number, no reach-back.
 
 ---
 

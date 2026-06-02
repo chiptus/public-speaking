@@ -22,10 +22,18 @@
 
 ## Slide 7 — The options
 
-- **Visual:** Four options listed, three ruled out, one standing: rewrite from zero · micro-frontends · do nothing · incremental
+- **Visual:**
+  - Title (on slide): **The options**
+  - Four items, each on its own line — this is the on-slide text:
+    - rewrite from zero
+    - micro-frontends
+    - do nothing
+    - incremental
+  - **Build behavior (NOT on-slide text — this is an instruction):** all four appear plain on load; strike each through one at a time as the speaker rejects it; `incremental` is the only one left unstruck. **Do not show any strikethrough on load** — the strike happens live, synced to delivery.
 - **Notes:**
-  - do-nothing was real · rewrite = freeze · micro-frontends = split state/nav/components · incremental = only fit
-  - _Cue:_ strike each as you reject it
+  - the requirements behind the cut — explicit: keep shipping features · implicit: don't freeze dev, don't fragment state/nav
+  - strike each against a requirement: do-nothing = library is dead · rewrite = freezes feature delivery · micro-frontends = fragments state/nav/components · incremental = the only one that meets all
+  - _Cue:_ strike each as you reject it — name the requirement it fails
 
 ## Slide 8 — Why incremental + r2a
 

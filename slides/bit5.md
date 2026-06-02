@@ -9,6 +9,7 @@
 > A reflective close slide (not a demo slide) — one slide holds several threads; the **two-half structure** does the work. Each phrase ≤5–6 words; the speaking carries the rest.
 
 - **Visual:** One slide, two labelled halves.
+  - Title (on slide): **What I'd do differently, and what I'd want**
   - **Starting now** _(the part that's mine):_ small targets, not "migrate everything" · explicit product trade-off (what stays / what's dropped) · document decisions, revisit them
   - **What I'd want** _(not mine to grant):_ one team on the migration — dev, QA, reviewer — no other priorities
 - **Notes:**
@@ -20,7 +21,7 @@
 
 ### Finale — wordless closing ship card
 
-- **Visual:** The big ship, ~half its planks React-green, sailing. The literal last image; holds through Q&A. Close half of the open/close bookend (Slide 1 = whole, all-grey; close = whole, ~half-green, still sailing).
+- **Visual:** The big ship, well-progressed (more blue than red, but not all-blue/finished), sailing. The literal last image; holds through Q&A. Close half of the open/close bookend (Slide 1 = whole, all-red; close = whole, well-progressed, still sailing). Exact fraction is symbolic — don't count planks.
 - **Notes:**
   - 🔒 SAY (verbatim) — the last words of the talk:
     > שאלנו אם זו עדיין אותה ספינה. היום היא חצי ישנה, חצי חדשה — עדיין שטה, עדיין נבנית.

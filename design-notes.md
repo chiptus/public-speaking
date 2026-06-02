@@ -70,3 +70,50 @@
 
 - **"Would you move to React today?"** → answered in Q&A, not a slide. Verdict is _yes, but_ — and the "but" is already Slide 24. The "yes" is one spoken line.
 - **"First merge" warm moment** → Q&A answer to "a moment that stuck" / "what made it worth it." It's about the _method_ working (Bit 4's story), not a forward-looking close.
+
+---
+
+## Ship visual system — rationale
+
+> The spec is `slides/ship-visual-system.md` (kept tight for the designer). The *why* lives here.
+
+- **Color-fill, not build-up.** The app was never empty — it was a working AngularJS app. "Building from nothing" tells the wrong story; "replacing planks on a ship that keeps sailing" *is* Ship of Theseus, and it's honest. So progress shows as planks changing color within a whole ship, never as a ship assembling from parts.
+- **Colors are the real brand colors (revised 2026-06-02).** Original spec said Angular-grey → React-green; corrected to **AngularJS red → React blue** — their actual brand colors, so the fill maps to something the audience can decode. Art was already red→blue; the spec was the stale side.
+- **The finale reads more than half on purpose.** Earlier rule capped it at ~half-green to mirror the honest 50%. Relaxed: the exact fraction is **symbolic — no one counts planks**. What still holds is *not all-blue / not finished* — a completed ship would claim an ending the talk explicitly denies (S2: "this story has no ending"). The corner meter loosely echoes the ~50% Bit 4 dashboard but isn't a literal gauge.
+- **Never say "Ship of Theseus" aloud.** Slide 1 poses the paradox by image + spoken plank-question; naming it reads as learned/academic, not visceral (Anderson). The verbatim carries the paradox without the label.
+- **No seam / transition cards.** Earlier plan; dropped once the corner meter became the bit-to-bit orientation device. Dedicated boundary slides became redundant.
+
+---
+
+## On-slide title decisions (2026-06-02)
+
+> Rule (from the designer brief): **no on-slide title by default** — the `## Slide N — title` header is a speaker-notes label only. A title goes on the slide **only** where it acts as a functional label on a structured slide, or where the `Visual:` line mandates one.
+
+**Titles KEPT on-slide** (functional label for a structured visual):
+
+| Slide | On-slide title | Why kept |
+|---|---|---|
+| **S5** | Why it had to change | Labels the three-reason list |
+| **S6** | How it was decided | Labels the decision flow |
+| **S7** | The options | **Mandated** by the `Visual:` line itself |
+| **S9** | **TBD — open decision** | Gets a title ("TypeScript + Tailwind" too thin alone), but the wording is unresolved — see `todo.md` |
+| **S12** | Two versions of the same component | Labels the side-by-side code |
+| **S13** | Two models in your head | Labels the data-flow diagram |
+| **S15** | Research | Labels the pattern screenshots |
+| **S18** | Migrating a view | Labels the annotated page |
+| **S19** | The return | Labels the small dashboard |
+| **S24** | What I'd do differently, and what I'd want | Speaker's call; labels the two-half layout |
+
+**Titles REMOVED** (the visual is self-labelling, a title would compete):
+
+- **S4** — screenshot only.
+- **S8** — the r2a diagram is self-labelled.
+- **S16** — table screenshot carries its own callouts.
+- **S17** — code blocks are self-captioned.
+
+**Not titles — these are wordless or text-as-content** (so the question doesn't apply):
+
+- Wordless / image-only: **S1, S11, finale ship card**.
+- The line *is* the slide (statement text, not a heading): **S2** (hook), **S3** (self-intro), **S10** ("Same surface. New engine underneath."), **S14** (50/50 lines), **S20** (Hebrew quote), **S21** ("Looked done. Bugs. Paused."), **S22** (method framing line).
+
+_**S9 title is still open** — the slide gets a title but the wording isn't decided. The beat's notes say "don't announce the moral," so lean understated. Candidates and the live decision live in `todo.md`. The slide file marks it `Title (on slide): TBD`, so the designer knows it's a placeholder._

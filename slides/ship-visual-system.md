@@ -1,6 +1,6 @@
 # Ship visual system (recurring)
 
-**Decided 2026-05-30.** The ship is the talk's single unified metaphor (Ship of Theseus). This file is the source of truth for how it appears across the deck. Per-slide files reference it.
+**Decided 2026-05-30** (colors revised 2026-06-02). Source of truth for how the Ship-of-Theseus motif appears across the deck. Per-slide files reference it. The *why* lives in `../design-notes.md`.
 
 ## The one metaphor, two scales
 
@@ -10,35 +10,33 @@
 | **Size** | Small, top-right corner | Large |
 | **Where** | Almost every slide | Slide 1 (open) + closing card (after Slide 24) |
 
-Both speak the **same visual language**: a whole, sailing ship whose planks color-fill from **Angular-grey → React-green**. They differ only in size and in how many planks have turned.
+Both use the **same visual language**: a whole, sailing ship whose planks color-fill from **Angular-red → React-blue** (their real brand colors — AngularJS red, React blue). They differ only in size and how many planks have turned.
 
-## Color-fill, not build-up (the rule that keeps it on-metaphor)
+## Color-fill, not build-up
 
-The ship is **always whole and sailing.** Progress = planks changing **color** (grey → green), never planks being *added* to an empty frame.
-
-- **Why:** the app was never empty — it was a working AngularJS app. "Building from nothing" tells the wrong story. "Replacing planks on a ship that keeps sailing" *is* Ship of Theseus, and it's honest.
-- Fill is **chunky, per-bit** (5 bits = ~5 perceptible steps), not subtle plank-by-plank — a 30px icon can't show fine change.
-- Always fill *within a fixed full silhouette* (like a battery icon) so each slide reads "~40% green" on its own, without comparing to a slide seen minutes ago.
+- Ship is **always whole and sailing.** Progress = planks changing **color** (red → blue), never planks *added* to an empty frame.
+- Fill is **chunky, per-bit** (5 bits = ~5 perceptible steps), not plank-by-plank — a 30px icon can't show fine change.
+- Always fill *within a fixed full silhouette* (like a battery icon) so each slide reads e.g. "~40% blue" on its own, without comparing to a slide seen minutes ago.
 
 ## States across the deck
 
-- **Slide 1 — big, whole, all-grey (0%), sailing. No text.** Establishes the silhouette so the corner meter is legible. The question is **spoken, not printed** — the image poses it, the voice asks it. **Say the paradox, never the name:** speak the plank question ("replace every plank, one by one — still the same ship?") and bridge to the app; do **not** say "Ship of Theseus" aloud (the label reads as learned/academic, not visceral — Anderson).
-- **Corner, every slide — fills grey→green bit by bit**, reaching **~half green by the close** (= the 50% from the Bit 4 dashboard). Wordless.
-- **Closing card after Slide 24 — big, ~half-green, sailing, wordless.** Literal last image; holds through Q&A. NOT full/finished — a finished ship would claim a completion that didn't happen and restore the cut victory lap.
+- **Slide 1 — big, whole, all-red (0% migrated), sailing. No text.** Establishes the silhouette so the corner meter reads later.
+- **Corner, every slide — fills red→blue bit by bit**, advancing toward the finale state by the close. Exact fraction is **symbolic, not a literal meter** — no one counts planks. Wordless.
+- **Closing card after Slide 24 — big, well-progressed (more blue than red), sailing, wordless.** Literal last image; holds through Q&A. **Not all-blue / finished** — it shouldn't read as *done*.
 
 ## When the corner ship drops away
 
-The motif yields whenever a slide needs to breathe — **data-dense slides drop it.** Clearest case: **Slide 23** (the full-bleed ~50% dashboard, the deck's peak). The break is itself a signal: *this slide is real, not metaphor.*
+Data-dense slides drop it — clearest case **Slide 23** (full-bleed ~50% dashboard, the deck's peak). The break is the signal: *this slide is real, not metaphor.*
 
-## What we deliberately did NOT do
+## Don'ts
 
-- **No seam / transition cards.** The corner meter does the bit-to-bit orientation; dedicated boundary slides aren't needed. (Earlier plan; dropped once the corner became the meter.)
-- **No full/finished ship anywhere.** Max state is ~half-green — matches the honest 50%.
-- **No words on any ship appearance.** All wordless — no slogan, no "selling the story back."
+- **No words on any ship**, ever — every appearance wordless.
+- **No full/finished (all-blue) ship** anywhere.
+- **No seam / transition cards** — the corner meter does the bit-to-bit orientation.
 
 ## Cross-references
 
-- `bit1.md` Slide 1 — big establishing grey ship.
+- `bit1.md` Slide 1 — big establishing red ship.
 - `bit4.md` Slide 23 — corner ship dropped, full-bleed dashboard.
 - `bit5.md` Finale — wordless closing ship card after Slide 24.
-- `slides/bit3.md` Slide 11 — the *scene* ship (engine-swap-at-sea): same ship in action, a separate job from the progress meter. Should visibly be the same ship.
+- `bit3.md` Slide 11 — the *scene* ship (engine-swap-at-sea): same ship in action, a separate job from the meter. Must visibly be the same ship.

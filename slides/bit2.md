@@ -5,7 +5,9 @@
 
 ## Slide 5 — Why it had to change
 
-- **Visual:** Three lines: _dead library · refactor needed anyway · new features coming_
+- **Visual:**
+  - Title (on slide): **Why it had to change**
+  - Three lines: _dead library · refactor needed anyway · new features coming_
 - **Notes:**
   - 🔒 seam from Bit 1: _"וזה לא נגמר בבלגן"_ (it wasn't only the mess)
   - EOL = the trigger, not the whole case (Dec 2021)
@@ -14,7 +16,9 @@
 
 ## Slide 6 — How it was decided
 
-- **Visual:** Flow: Internal discussions → Frontend team meeting → React
+- **Visual:**
+  - Title (on slide): **How it was decided**
+  - Flow: Internal discussions → Frontend team meeting → React
 - **Notes:**
   - leadership layer: "can't hire" for AngularJS
   - team layer: ecosystem · familiarity · ownership
@@ -45,7 +49,9 @@
 
 ## Slide 9 — What the migration justified
 
-- **Visual:** "TypeScript + Tailwind" large, clean
+- **Visual:**
+  - Title (on slide): **TBD** — slide needs a title, wording not yet decided (see `todo.md` → Open decisions, "S9 needs a title")
+  - "TypeScript + Tailwind" large, clean
 - **Notes:**
   - migration = cover for improvements that couldn't justify themselves alone
   - TS + Tailwind, merged in the first PRs

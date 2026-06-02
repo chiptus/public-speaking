@@ -8,7 +8,9 @@
 
 ### Slide 15 — Research
 
-- **Visual:** Screenshots of recurring patterns in the old Angular code — copy-pasted raw tables, repeated form fields
+- **Visual:**
+  - Title (on slide): **Research**
+  - Screenshots of recurring patterns in the old Angular code — copy-pasted raw tables, repeated form fields
 - **Notes:**
   - the method that drove the migration
   - find duplicated patterns → a component for each
@@ -32,7 +34,9 @@
 
 ### Slide 18 — Migrating a view
 
-- **Visual:** A real Portainer page, with overlays/labels showing which library components it was assembled from (Datatable, form fields, etc.), plus arrows marking the bits that needed refactoring.
+- **Visual:**
+  - Title (on slide): **Migrating a view**
+  - A real Portainer page, with overlays/labels showing which library components it was assembled from (Datatable, form fields, etc.), plus arrows marking the bits that needed refactoring.
 - **Notes:**
   - for years: decompose → refactor gaps → small PRs
   - Copilot later: line-level only; decisions stayed human
@@ -42,7 +46,9 @@
 
 ### Slide 19 — The return
 
-- **Visual:** The dashboard screenshot, shown **small** — AJS component count over time, which components to migrate first. A tool. Same artifact returns full-screen at Slide 23.
+- **Visual:**
+  - Title (on slide): **The return**
+  - The dashboard screenshot, shown **small** — AJS component count over time, which components to migrate first. A tool. Same artifact returns full-screen at Slide 23.
 - **Notes:**
   - came back, wanted to resume
   - built a dashboard (AJS count, prioritization) — vibe-coded, just a tool

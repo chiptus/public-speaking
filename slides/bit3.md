@@ -13,7 +13,9 @@
 
 ## Slide 12 — Two versions of the same component
 
-- **Visual:** Short code snippet: Angular `rdWidget` (using `ng-transclude`) next to React `Widget` (using `children` prop)
+- **Visual:**
+  - Title (on slide): **Two versions of the same component**
+  - Short code snippet: Angular `rdWidget` (using `ng-transclude`) next to React `Widget` (using `children` prop)
 - **Notes:**
   - no children prop → ng-transclude keeps Angular alive
   - snippet = the structural divergence
@@ -21,7 +23,9 @@
 
 ## Slide 13 — Two models in your head
 
-- **Visual:** Data-flow diagram — Angular ↔ (2-way binding) vs React → (1-way binding), shown side by side.
+- **Visual:**
+  - Title (on slide): **Two models in your head**
+  - Data-flow diagram — Angular ↔ (2-way binding) vs React → (1-way binding), shown side by side.
 - **Notes:**
   - 2-way + 1-way coexist = the cognitive cost
   - the wrapper is the symptom

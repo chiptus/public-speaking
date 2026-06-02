@@ -10,7 +10,7 @@ no notes
 
 ## Slide 1 — Ship (wordless)
 
-- **Visual:** Big grey ship, whole, sailing. No text.
+- **Visual:** Big red ship (all-red = 0% migrated), whole, sailing. No text.
 - **Notes:**
   - 🔒 יש שאלה ישנה — אם מחליפים את כל הקרשים של ספינה, אחד אחד, האם זו עדיין אותה ספינה? זאת בדיוק השאלה ששאלתי על האפליקציה שלנו: איך בונים אותה מחדש בפריימורק חדש — בלי לשנות אותה?
   - _Cue:_ ask, then stop

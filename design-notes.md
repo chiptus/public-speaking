@@ -1,0 +1,72 @@
+# Design notes — rationale behind the slides
+
+> **Not for the designer and not for the speaker-notes pane.** This is the editorial "why" behind each bit — kept out of the slide files so those stay clean handoff specs. The per-slide `Visual` + `Notes` (beats / 🔒 verbatim / cues) live in `slides/bitN.md`; the *reasoning* lives here.
+
+---
+
+## Bit 1 — Opening
+
+- Ship is enacted, never named "Ship of Theseus" aloud — the verbatim carries the paradox without the label (`talk-review.md`).
+- Stack is split across two slides: Slide 2 names the destination (React), Slide 4 names the source (AngularJS) on the actual old code. Neither slide carries the full "AngularJS → React".
+- Slide 2 hook works on the mismatch — a React migration that's taken 5+ years and still has no end. That question is the talk's pull. No number (the ~50%) here; it's withheld until the Bit 4 close. Deliver "no ending" as thesis, not apology.
+- Slide 3: "since 2018" replaces tenure math; the "left and came back" beat is deferred to the AI-fall section.
+- Slide 4 ends on the concrete mess only — no thesis. The old "didn't create it, exposed it" line was cut: at Slide 4 it's an unearned summary, and it's a rebuttal to a charge nobody's made yet, not a reason. The bridge into Bit 2 is a connective on Slide 5 ("it wasn't only the mess"), not a closing line here.
+- The "don't blame the migration / it exposed what was already broken" idea isn't lost — it's the same thought as the S21 fear-attribution beat ("every bug gets blamed on the migration"), where it's earned. See `bit4.md` Slide 21.
+- Slide 1 grey ship teaches the full silhouette so the corner progress meter reads later (`ship-visual-system.md`).
+
+---
+
+## Bit 2 — The Decisions
+
+- **S5 seam:** opens on Bit 1's mess connective so it reads as escalation, not a fresh start (the seam from Slide 4; Bit 1 has no closing bridge).
+- **S9 reframe:** the slide is the payoff of S5's legitimacy beat, not a "foundations first" principle. The TS-resistance line echoes S6 (decided together) — keep it an aside; don't announce a moral. _(alt titles: "While we were in there" · "מה שהמעבר אפשר")_
+- **S10:** behavior-preserving-but-fully-refactored is what Bit 4 cashes ("migration ≠ translation"). The bridge springs straight into Bit 3 (engine at sea), no reach-back.
+- **Bit 2 through-line:** S6 · S9 · S10 are a quiet trilogy of collective decisions the speaker didn't fully own (decided-together · overruled-and-glad · a-decision-not-a-regret).
+
+---
+
+## Bit 3 — Living with Mixed Code
+
+- The ship is the talk's single unified metaphor (Bit 1, Ship of Theseus), now shown in its working state — no competing plane.
+- S13 was flagged "unclear" in run 1 (`takes/take1/notes1.md`) — keep it concrete: one symptom (the wrapper), one cost (two mental models), no API tour.
+- Bridge springs straight off S14, no reach-back into Bit 3.
+
+### Decisions made (Bit 3 session)
+
+- [אנושי] moments (silence asymmetry, stolen time) removed from Bit 3 — placement TBD in Bit 5 planning
+- Slide 12: code snippet approved (ng-transclude vs children prop)
+- Analogy: swapping the engine at sea — the ship is the talk's single metaphor (Bit 1 Ship of Theseus); the competing plane was removed
+
+---
+
+## Bit 4 — Depth and AI
+
+### Decisions so far (this session)
+
+- Sub-arc A reframed from "the table story" → **"building a component library"** (table-only felt too lean). Research → find patterns (tables, form fields) → build components → shared library.
+- Slide 15 titled "Research" — about the _general_ method, not one artifact. Visual = screenshots of old copy-pasted patterns.
+- **The table is the worked example, split across two slides (option B):** 16 = the choices (pattern research → TanStack Table → API design), 17 = implementation evolution (composable components → `Datatable` + variants like `ExpandableTable`). "Migration ≠ translation" moved to 18.
+- **S21 is the earned home for the cut Bit 1 line** ("the migration didn't create the mess, it exposed it") — same thought, lands here where the audience has lived it. Optional to voice; don't force it.
+- **Sub-arc B restructured to 6 slides (19–24); bit is now 10 slides (15–24):**
+  - Dropped the "Skipping patience" slogan slide entirely — too neat / "selling the story back."
+  - The quote IS the fall (feeling + action are one moment); collapsed into a single slide (21).
+  - Dashboard moved _before_ the fall, to a new **Return** slide (20) — it's a tool built on re-entry, not the disciplined "measurement" beat it was miscast as.
+  - Method slide (23) reframed: AI _emphasizes_ the fundamentals (plan → tasks → small units · YAGNI · bottom-up), doesn't replace them — the honest takeaway of the arc.
+  - Quote intro resolved: **warm** verbal setup ("convert the stack page for me") → slide.
+  - Dropped the "first merge" light-moment slide — it happened ~5 yrs ago (near the start), so it can't sit at the end of the AI arc chronologically. Freed up — possible reuse in Bit 5.
+  - Copilot beginning dated ~4 yrs ago (mid-2022) — now folded into Slide 18 as a tool inside the human practice, not its own slide.
+- **The number moved (skeleton updated, bits 1/4/5):** Bit 1 opens with the _theme_ only — "a story without an end," no number. The **dashboard carries the number**: small/tool on the Return (19), **full-screen at the bit close (23) where the ~50% lands with earned weight.** Bit 5 no longer closes on the number — it lands on the honest answer ("would you move to React today?"). Rationale: theme-then-proof beats a repeated bookend; an abstract stat at the open becomes a number the audience understands the cost of by the end.
+- **Slides 18 + 19 (old) merged into Slide 18 "Migrating a view"** — both felt thin/asserted. The view-migration slide _enacts_ "migration ≠ translation" instead of stating it as a slogan, and absorbs the "Copilot worked" beat as a footnote (Copilot helped at the line level inside the practice). Slide 22 (the method) now mirrors 18 directly: same process, AI executes the units. Bit drops to 9 slides (15–23).
+
+---
+
+## Bit 5 — What's Next (the close)
+
+- **S24 cut on purpose:** no "recruit partners" slogan (can't recruit people who aren't there; risked implying the 50% was a personal failure to rally a team). The honest-answer beat moved off-deck (see below).
+- **Why the half-built ship reopens the old "finale: none" without betraying it.** Finale-none guarded against (1) spending the ~50% number twice, and (2) ending triumphant. A wordless, half-built, still-sailing ship does neither — no number, not finished, and a ship mid-rebuild is _literally_ a story without an end. A full/finished ship would claim a completion that didn't happen and silently restore the victory lap. (See `ship-visual-system.md`.)
+- **Single-forward-slide discipline holds:** the finale is a wordless image, not a second content slide.
+
+### Off-deck → Q&A
+
+- **"Would you move to React today?"** → answered in Q&A, not a slide. Verdict is _yes, but_ — and the "but" is already Slide 24. The "yes" is one spoken line.
+- **"First merge" warm moment** → Q&A answer to "a moment that stuck" / "what made it worth it." It's about the _method_ working (Bit 4's story), not a forward-looking close.

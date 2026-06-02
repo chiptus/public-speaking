@@ -37,8 +37,6 @@
 
 ## Slide 9 — What the migration justified
 
-_(alt titles: "While we were in there" · "מה שהמעבר אפשר")_
-
 - **Visual:** "TypeScript + Tailwind" large, clean
 - **Notes:**
   - migration = cover for improvements that couldn't justify themselves alone
@@ -48,7 +46,7 @@ _(alt titles: "While we were in there" · "מה שהמעבר אפשר")_
 
 ## Slide 10 — Same surface, new engine
 
-- **Visual:** Title alone: "אותו ממשק. מנוע חדש מתחת." _(Same surface. New engine underneath.)_
+- **Visual:** Title alone: "Same surface. New engine underneath."
 - **Notes:**
   - a decision, not a regret
   - held the UX identical, rebuilt the code beneath
@@ -56,9 +54,4 @@ _(alt titles: "While we were in there" · "מה שהמעבר אפשר")_
   - behavior-preserving, still a full refactor — not a translation
   - _Cue / bridge → Bit 3:_ same ship, swap the engine
 
-## Design notes
-
-- **S5 seam:** opens on Bit 1's mess connective so it reads as escalation, not a fresh start (the seam from Slide 4; Bit 1 has no closing bridge).
-- **S9 reframe:** the slide is the payoff of S5's legitimacy beat, not a "foundations first" principle. The TS-resistance line echoes S6 (decided together) — keep it an aside; don't announce a moral.
-- **S10:** behavior-preserving-but-fully-refactored is what Bit 4 cashes ("migration ≠ translation"). The bridge springs straight into Bit 3 (engine at sea), no reach-back.
-- **Bit 2 through-line:** S6 · S9 · S10 are a quiet trilogy of collective decisions the speaker didn't fully own (decided-together · overruled-and-glad · a-decision-not-a-regret).
+_(Design rationale for this bit → `design-notes.md`.)_

@@ -12,6 +12,7 @@ Tracking for both of us. **@me** = Claude, **@you** = Chaim. Keep it current.
 - [x] Seam 3→4 — question-bridge off S14 (silence first), opens S15 Research (`bit3.md`)
 - [x] Seam 4→5 — forward-turn off S23 ~50%, opens S24, pre-empts regret (`bit4.md`)
 - [x] Slide 9 reframed: "Foundations first" moral → "what the migration justified" (opportunity + TS-resistance grace note), `bit2.md`
+- [x] Compress notes to cue-card style (beats + one Cue, rationale → Design notes) across bits 2–5, matching bit 1 — grounded in CandleKeep delivery research
 
 ## In progress
 - _(nothing active — all four bit seams done)_

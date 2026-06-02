@@ -1,33 +1,64 @@
 # Bit 2 — The Decisions (Slides 5–10)
 
+> 4–5 min. Cards are beats + one cue, never rationale — the "why" lives in Design notes below.
+> 🔒 = learned word-for-word. Cues are glance-only, never spoken.
+
 ## Slide 5 — Why it had to change
 
 - **Visual:** Three lines: _dead library · refactor needed anyway · new features coming_
-- **Notes:** **Open with the connective from Bit 1's mess** — _"it wasn't only the mess" / "וזה לא נגמר בבלגן"_ — so this reads as escalation, not a restart (the seam from Slide 4; no closing bridge in Bit 1). EOL is the trigger, not the full case. Migration gave legitimacy to refactoring that couldn't justify itself alone.
+- **Notes:**
+  - 🔒 seam from Bit 1: _"וזה לא נגמר בבלגן"_ (it wasn't only the mess)
+  - EOL = the trigger, not the whole case (Dec 2021)
+  - migration gave refactoring the legitimacy it couldn't earn alone
+  - _Cue:_ escalation off Bit 1 — not a restart
 
 ## Slide 6 — How it was decided
 
 - **Visual:** Flow: Internal discussions → Frontend team meeting → React
-- **Notes:** Two layers: "can't hire" for leadership. Ecosystem + team familiarity + ownership for the team. Decision made together, not top-down.
+- **Notes:**
+  - leadership layer: "can't hire" for AngularJS
+  - team layer: ecosystem · familiarity · ownership
+  - _Cue:_ land "decided together, not top-down"
 
 ## Slide 7 — The options
 
 - **Visual:** Four options listed, three ruled out, one standing: rewrite from zero · micro-frontends · do nothing · incremental
-- **Notes:** Do nothing was real. Rewrite = freeze. Micro-frontends = split state/nav/components. Incremental was the only fit.
+- **Notes:**
+  - do-nothing was real · rewrite = freeze · micro-frontends = split state/nav/components · incremental = only fit
+  - _Cue:_ strike each as you reject it
 
 ## Slide 8 — Why incremental + r2a
 
 - **Visual:** Angular box ← r2a → React box, arrow labeled "new components flow one way"
-- **Notes:** r2a is the simplest solution. New features in React from day one. React components usable inside Angular. Mostly eliminates dual-maintenance — exceptions are Bit 3's story.
+- **Notes:**
+  - r2a = simplest fit · new features in React from day one
+  - React components run inside Angular → kills most dual-maintenance
+  - _Cue:_ exceptions belong to Bit 3 — don't open mixed-code pain here
 
 ## Slide 9 — What the migration justified
 
 _(alt titles: "While we were in there" · "מה שהמעבר אפשר")_
 
 - **Visual:** "TypeScript + Tailwind" large, clean
-- **Notes:** The opening, not a principle. The migration was cover for improvements that **couldn't justify themselves alone** (callback to S5's legitimacy beat) — TS + Tailwind, merged in the first PRs. We took the opportunity while we were already in there. **Grace note, don't sell it:** I argued against TypeScript; we did it anyway; changes are far easier now. Let "I was against it" land as a small aside — the room decided together (echoes S6), not a confession.
+- **Notes:**
+  - migration = cover for improvements that couldn't justify themselves alone
+  - TS + Tailwind, merged in the first PRs
+  - grace note: I argued against TypeScript; we did it anyway; far easier now
+  - _Cue:_ "I was against it" = small aside, not a confession — don't sell it
 
 ## Slide 10 — Same surface, new engine
 
 - **Visual:** Title alone: "אותו ממשק. מנוע חדש מתחת." _(Same surface. New engine underneath.)_
-- **Notes:** A decision, not a regret. We didn't redesign while migrating — held the UX identical and rebuilt the code beneath it. The migration wasn't product-driven, so there was no one to sanction UX changes; and changing the surface mid-migration would muddy attribution — you couldn't tell a regression from a redesign. Behavior-preserving, but still a full refactor underneath, not a translation (Bit 4 cashes this). Bridges to Bit 3: same ship, swap the engine.
+- **Notes:**
+  - a decision, not a regret
+  - held the UX identical, rebuilt the code beneath
+  - why: no product mandate to change UX · changing the surface muddies attribution (can't tell regression from redesign)
+  - behavior-preserving, still a full refactor — not a translation
+  - _Cue / bridge → Bit 3:_ same ship, swap the engine
+
+## Design notes
+
+- **S5 seam:** opens on Bit 1's mess connective so it reads as escalation, not a fresh start (the seam from Slide 4; Bit 1 has no closing bridge).
+- **S9 reframe:** the slide is the payoff of S5's legitimacy beat, not a "foundations first" principle. The TS-resistance line echoes S6 (decided together) — keep it an aside; don't announce a moral.
+- **S10:** behavior-preserving-but-fully-refactored is what Bit 4 cashes ("migration ≠ translation"). The bridge springs straight into Bit 3 (engine at sea), no reach-back.
+- **Bit 2 through-line:** S6 · S9 · S10 are a quiet trilogy of collective decisions the speaker didn't fully own (decided-together · overruled-and-glad · a-decision-not-a-regret).

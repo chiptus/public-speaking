@@ -20,10 +20,12 @@
 - **Visual:** Angular box ← r2a → React box, arrow labeled "new components flow one way"
 - **Notes:** r2a is the simplest solution. New features in React from day one. React components usable inside Angular. Mostly eliminates dual-maintenance — exceptions are Bit 3's story.
 
-## Slide 9 — Foundations first
+## Slide 9 — What the migration justified
+
+_(alt titles: "While we were in there" · "מה שהמעבר אפשר")_
 
 - **Visual:** "TypeScript + Tailwind" large, clean
-- **Notes:** Merged in first PRs. Deferring foundations is compounding debt.
+- **Notes:** The opening, not a principle. The migration was cover for improvements that **couldn't justify themselves alone** (callback to S5's legitimacy beat) — TS + Tailwind, merged in the first PRs. We took the opportunity while we were already in there. **Grace note, don't sell it:** I argued against TypeScript; we did it anyway; changes are far easier now. Let "I was against it" land as a small aside — the room decided together (echoes S6), not a confession.
 
 ## Slide 10 — Same surface, new engine
 

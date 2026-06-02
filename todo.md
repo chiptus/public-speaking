@@ -11,12 +11,12 @@ Tracking for both of us. **@me** = Claude, **@you** = Chaim. Keep it current.
 - [x] Seam 2→3 — straight flow S10 → S11 (engine at sea), no reach-back
 - [x] Seam 3→4 — question-bridge off S14 (silence first), opens S15 Research (`bit3.md`)
 - [x] Seam 4→5 — forward-turn off S23 ~50%, opens S24, pre-empts regret (`bit4.md`)
+- [x] Slide 9 reframed: "Foundations first" moral → "what the migration justified" (opportunity + TS-resistance grace note), `bit2.md`
 
 ## In progress
 - _(nothing active — all four bit seams done)_
 
 ## Open decisions
-- [ ] Slide 9 (Foundations / TS+Tailwind) — full slide or fold to a bullet? (sub-agent flagged as weak) — **@you to call**
 - [ ] Slide 24 split — "what stays / what goes" as two halves vs one? (from original handoff) — **@you to call**
 
 ## Content fixes (still worth a session)

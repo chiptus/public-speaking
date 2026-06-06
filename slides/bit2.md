@@ -11,6 +11,8 @@
 - **Notes:**
   - 🔒 seam from Bit 1: _"וזה לא נגמר בבלגן"_ (it wasn't only the mess)
   - EOL = trigger, not the whole case (Dec 2021)
+  - _(optional concrete beat — pick later):_ we'd started Nov 2021, a month *before* EOL — moved ahead of the deadline, not after
+  - _(bg ref, not on slide:_ initial migration commit → https://github.com/portainer/portainer/commit/85a6a807226d9f3baf7ec265022f130aed1eddd1 _)_
   - migration legitimized the refactor (couldn't earn it alone)
   - _Cue:_ escalation off Bit 1 — not a restart
 

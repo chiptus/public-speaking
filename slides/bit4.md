@@ -57,12 +57,14 @@
 
 ### Slide 20 — The fall
 
-- **Visual:** two parts — the prompt _"convert the stacks page to react"_ (small chat input) → the resulting diff, huge (~**+10k / −5k**, real numbers from the actual PR). The disproportion is the point: tiny ask → monstrous, unreviewable PR.
+- **Visual:** the real merged PR (screenshot) — title _"refactor(stacks): migrate create view to react"_ + **74 files changed, +2,935 −714**. The PR title doubles as the ask; **"74 files"** is the unreviewable gut-punch. The disproportion is the point: one casual sentence → 74 files. (Crop so title + "74 files" + the diff stat stay legible.)
+  - _(source, not on slide:_ https://github.com/portainer/portainer/commit/a1bac5a133f28bfd1cf23f3a840cc56eceee9bf8 _)_
 - **Notes:**
-  - warm setup: rusty, asked for a whole page
+  - warm setup: rusty — said it casual: "convert the stacks page to react"
+  - point at the PR: this came back — 74 files (nobody reviews 74 files properly)
   - quote (spoken, not on slide): "anything's possible — just send one more message"
   - why it felt fine — stay in the experience, don't name the moral
-  - _Cue:_ let the diff land; top-down→huge-PR is self-evident — bottom-up payoff is S22
+  - _Cue:_ the gap (one sentence → 74 files) is self-evident — don't moralize; bottom-up payoff is S22
 
 ### Slide 21 — Looked done. Bugs. Paused.
 

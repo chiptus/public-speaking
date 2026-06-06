@@ -63,7 +63,7 @@ Tracking for both of us. **@me** = Claude, **@you** = Chaim. Keep it current.
 - [ ] S18 — annotated real Portainer page (library assembly + refactor bits)
 - [ ] S19 — dashboard screenshot (small; the tool view — AJS count over time / prioritization)
 - [ ] S23 — same dashboard, **cropped to the X/Y-components-done metric** (the ~50%), full-screen
-- [ ] **S20 — two new assets:** (a) prompt-UI screenshot/mockup showing _"convert the stacks page to react"_ · (b) the git-diff screenshot from that PR (the real ~+10k/−5k numbers)
+- [x] **S20 — asset secured: the real PR screenshot** (#1538, _"refactor(stacks): migrate create view to react"_, **74 files, +2,935/−714**, commit `a1bac5a` → https://github.com/portainer/portainer/commit/a1bac5a133f28bfd1cf23f3a840cc56eceee9bf8). One real artifact replaces the planned prompt-UI mockup + diff — the PR title doubles as the ask. **@you: crop so title + "74 files" + diff stat stay legible.**
 
 ## Production / polish (separate stream, not content)
 

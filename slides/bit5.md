@@ -4,19 +4,17 @@
 > Tone: restrained, not triumphant — the honesty carries it, no victory lap. The forward reframe is what keeps it from regret or self-blame.
 > Cards are beats + one cue, never rationale — the "why" lives in Design notes below. 🔒 = learned word-for-word.
 
-### Slide 24 — What I'd do differently, and what I'd want
+### Slide 24 — What I'd do differently, and what I'd need
 
-> A reflective close slide (not a demo slide) — one slide holds several threads; the **two-half structure** does the work. Each phrase ≤5–6 words; the speaking carries the rest.
+> A reflective close slide (not a demo slide) — **two stacked rows**, not two columns. The asymmetry does the work: many small things in my hands, one thing that isn't. Each phrase ≤5–6 words; the speaking carries the rest.
 
-- **Visual:** One slide, two labelled halves.
-  - Title (on slide): **What I'd do differently, and what I'd want**
-  - **Starting now** _(the part that's mine):_ small targets, not "migrate everything" · explicit product trade-off (what stays / what's dropped) · document decisions, revisit them
-  - **What I'd want** _(not mine to grant):_ one team on the migration — dev, QA, reviewer — no other priorities
+- **Visual:** One slide, two stacked rows — **no slide title**; each band's header carries the split. White "mine" band taller (2×2 grid); navy "need" band short, hugging its two items — the height asymmetry shows "lots is mine, one thing isn't."
+  - **What I'd do differently** (no label — self-evidently mine): bottom-up — small targets, not "migrate everything" · guardrails first — e2e that pins behavior, before migrating · document decisions, revisit them · show the team the progress
+  - **What I'd need** _(green label: NOT MINE TO GRANT — kept; it's what keeps the band from reading as a complaint):_ a real priority — a dedicated team (2 devs, 1 QA) · product in the loop — rank which views matter, call what's dead
 - **Notes:**
-  - both halves face forward — neither is regret
-  - "Starting now" is real — already restarted this way
-  - "What I'd want": one dedicated team (dev, QA, reviewer), no other priorities
-  - the weight behind it: most of the road was 2–3 people, spare time, for years — say it flat and slow, let it land (not a complaint)
+  - the split is agency, not regret
+  - "do differently" is real — already restarted bottom-up this way
+  - stolen-time weight: 2–3 people, spare time, for years — say it flat and slow
   - VP more involved: once, modest — NOT a win
   - _Cue:_ let the structure carry it; don't say "in/out of my control"
 

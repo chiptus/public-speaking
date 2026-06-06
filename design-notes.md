@@ -76,6 +76,15 @@
 - **Why the half-built ship reopens the old "finale: none" without betraying it.** Finale-none guarded against (1) spending the ~50% number twice, and (2) ending triumphant. A wordless, half-built, still-sailing ship does neither — no number, not finished, and a ship mid-rebuild is _literally_ a story without an end. A full/finished ship would claim a completion that didn't happen and silently restore the victory lap. (See `ship-visual-system.md`.)
 - **Single-forward-slide discipline holds:** the finale is a wordless image, not a second content slide.
 
+### Decisions (2026-06-06 — S24 reshaped: columns → rows, want → need)
+
+- **Two stacked rows, not two columns.** The content went asymmetric (several small things in my hands, one big thing that isn't) — a wide "mine" band over a single "need" band *shows* that asymmetry and kills the empty-dark-box imbalance the two-column version had.
+- **"What I'd want" → "What I'd need"** (title too). "Need" is the honest register; "want" drifted toward wishlist.
+- **The product trade-off moved from the mine side to the need side — and split in two.** "Explicit product trade-off (what stays/goes)" used to be a "do differently" bullet (skeleton:65). But that decision isn't the speaker's to make — it needs product. So it became *two distinct product asks* in the need band: (1) **rank** which views matter (forward — prioritize the queue), (2) **call what's dead** so dead old constraints stop being treated as sacred (backward — the vacuum lesson). Sharpens the spine: the mine/not-mine line runs right through the most concrete decision in the talk. The need band is still **one ask** ("make it a priority") shown concretely as people + product — not a list of demands.
+- **e2e appears twice on purpose, at opposite ends of the timeline.** S22 = e2e as part of the *recovery* (how I got out). S24 = e2e as a *prevention* guardrail ("pin behavior before you migrate, not after the scare"). The "before" framing is what keeps S24 from echoing S22; it also absorbs the "looked done" lesson, so no separate bullet for that. Ties to S10 ("same surface, new engine").
+- **Mine band final (4):** bottom-up small targets · guardrails-first e2e · document+revisit decisions · show the team the progress. **Need band final (2):** a real priority (dedicated team, 2 devs + 1 QA) · product in the loop (rank what matters, call what's dead).
+- **Final layout tuning (from rendered passes).** (1) **Slide title removed** — it repeated the two band headers; the headers + white/navy contrast carry the split alone. (2) **Height asymmetry is the argument** — white "mine" band taller (2×2 grid), navy "need" band short, hugging its two items; equal-height bands muted the "many vs. one" point, so the navy band is deliberately shrunk to fit its content. (3) **`NOT MINE TO GRANT` label kept** on the need band (the phrase is what keeps it from reading as a complaint); **`MINE` dropped** (top band is self-evidently the speaker's).
+
 ### Off-deck → Q&A
 
 - **"Would you move to React today?"** → answered in Q&A, not a slide. Verdict is _yes, but_ — and the "but" is already Slide 24. The "yes" is one spoken line.
@@ -112,7 +121,7 @@
 | **S15** | Research | Labels the pattern screenshots |
 | **S18** | Migrating a view | Labels the annotated page |
 | **S19** | The return | Labels the small dashboard |
-| **S24** | What I'd do differently, and what I'd want | Speaker's call; labels the two-half layout |
+| **S24** | _(no slide title)_ — band headers "What I'd do differently" / "What I'd need" | the slide-level title was dropped (it echoed the band headers 3×); the two headers + white/navy contrast carry the split. `NOT MINE TO GRANT` kept as a green label on the need band; `MINE` dropped (the top band is self-evidently the speaker's) |
 
 **Titles REMOVED** (the visual is self-labelling, a title would compete):
 

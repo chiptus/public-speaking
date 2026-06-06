@@ -7,13 +7,13 @@
 
 - **Visual:**
   - Title (on slide): **Why it had to change**
-  - Three lines: _dead library · refactor needed anyway · new features coming_
+  - Three lines: _hard to hire · refactor needed anyway · EOL deadline (Dec 2021)_
 - **Notes:**
   - 🔒 seam from Bit 1: _"וזה לא נגמר בבלגן"_ (it wasn't only the mess)
-  - EOL = trigger, not the whole case (Dec 2021)
-  - _(optional concrete beat — pick later):_ we'd started Nov 2021, a month *before* EOL — moved ahead of the deadline, not after
-  - _(bg ref, not on slide:_ initial migration commit → https://github.com/portainer/portainer/commit/85a6a807226d9f3baf7ec265022f130aed1eddd1 _)_
-  - migration legitimized the refactor (couldn't earn it alone)
+  - hiring = the real trigger: no dev wants to start on a dead framework (CEO arg, S6)
+  - EOL = a known deadline since 2018, not a surprise — we prepared, didn't react
+  - refactor we'd do anyway → migration legitimized it
+  - _(bg ref:_ initial migration commit → https://github.com/portainer/portainer/commit/85a6a807226d9f3baf7ec265022f130aed1eddd1 _)_
   - _Cue:_ escalation off Bit 1 — not a restart
 
 ## Slide 6 — How it was decided
@@ -30,24 +30,34 @@
 
 - **Visual:**
   - Title (on slide): **The options**
-  - Four items, each on its own line — this is the on-slide text:
+  - Three items, each on its own line — this is the on-slide text:
     - rewrite from zero
     - micro-frontends
-    - do nothing
     - incremental
-  - **Build behavior (NOT on-slide text — this is an instruction):** all four appear plain on load; strike each through one at a time as the speaker rejects it; `incremental` is the only one left unstruck. **Do not show any strikethrough on load** — the strike happens live, synced to delivery.
+  - **Build behavior (NOT on-slide text — this is an instruction):** all three appear plain on load; strike each through one at a time as the speaker rejects it; `incremental` is the only one left unstruck. **Do not show any strikethrough on load** — the strike happens live, synced to delivery.
 - **Notes:**
   - reqs: keep shipping · don't freeze dev · don't fragment state/nav
-  - do-nothing → lib dead · rewrite → freezes delivery · micro-frontends → fragments state/nav · incremental → meets all
+  - rewrite → freezes delivery · micro-frontends → fragments state/nav · incremental → meets all
   - _Cue:_ strike each → name what it fails
 
 ## Slide 8 — Why incremental + r2a
 
-- **Visual:** Angular box ← r2a → React box, arrow labeled "new components flow one way"
+- **Visual:** two small code blocks — **register** then **use** (no diagram; the snippet _is_ the diagram):
+  ```ts
+  // register a React component as an AngularJS one
+  angular
+    .module("portainer")
+    .component("reactButton", r2a(Button, ["label", "onClick"]));
+  ```
+  ```html
+  <!-- now use it inside any AngularJS template -->
+  <react-button label="Save" on-click="$ctrl.save"></react-button>
+  ```
 - **Notes:**
   - r2a = simplest fit · new features in React from day one
-  - React components run inside Angular → kills most dual-maintenance
-  - _Cue:_ don't open the pain yet (→ Bit 3)
+  - the snippet shows the whole deal: _"I just need the component and its props"_ (take line — say it off the code)
+  - one-way flow: React runs inside Angular → kills most dual-maintenance
+  - _Cue:_ two blocks only, no API tour · don't open the pain yet (→ Bit 3)
 
 ## Slide 9 — What the migration justified
 

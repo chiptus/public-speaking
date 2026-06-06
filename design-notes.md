@@ -59,6 +59,13 @@
 - **The number moved (skeleton updated, bits 1/4/5):** Bit 1 opens with the _theme_ only — "a story without an end," no number. The **dashboard carries the number**: small/tool on the Return (19), **full-screen at the bit close (23) where the ~50% lands with earned weight.** Bit 5 no longer closes on the number — it lands on the honest answer ("would you move to React today?"). Rationale: theme-then-proof beats a repeated bookend; an abstract stat at the open becomes a number the audience understands the cost of by the end.
 - **Slides 18 + 19 (old) merged into Slide 18 "Migrating a view"** — both felt thin/asserted. The view-migration slide _enacts_ "migration ≠ translation" instead of stating it as a slogan, and absorbs the "Copilot worked" beat as a footnote (Copilot helped at the line level inside the practice). Slide 22 (the method) now mirrors 18 directly: same process, AI executes the units. Bit drops to 9 slides (15–23).
 
+### Decisions (2026-06-06 — the fall reshape + first merge)
+
+- **S20 reshaped: the fall is now "the ask," not "the quote."** Visual = the prompt _"convert the stacks page to react"_ → the resulting huge diff (~+10k / −5k). The disproportion (tiny ask → monstrous unreviewable PR) carries "top-down migration = huge PRs you can't review" **visually**, so the speaker doesn't announce the moral. The **quote moves off-slide → spoken** ("anything's possible, just send one more message"). Trade-off accepted: lose the stark quote-as-slide, gain a concrete, visceral fall that lands with senior devs. The explicit *bottom-up* payoff stays at S22 (setup → payoff).
+- **S19 floating-quote problem fixed by reorder, not removal.** S19 keeps the small dashboard visual (it's itself a vibe-coded AI artifact, so it doubles as evidence of the AI re-entry), but its notes now **end on the AI turn** so S20's ask is the immediate consequence. Dashboard shown twice is fine because the two appearances are **different facets**: S19 = the _tool_; S23 = cropped to just the **X/Y-components-done** metric (the number). Not the same view repeated.
+- **The "first merge" human beat placed: S10→S11 seam, opening spoken beat of S11** (`bit3.md`). Framed as the payoff of the Bit 2 decisions (another dev built on our React components → momentum), then pivots into the mixed-code pain — warm → hard in one move. Supersedes the earlier "dropped, reuse in Bit 5" note above.
+- **On-slide text fully English** — S20's Hebrew quote is gone (now spoken); no deliberate-Hebrew slide remains. **S9 title = "While we were in there."** **S24 stays one slide, two halves.**
+
 ---
 
 ## Bit 5 — What's Next (the close)
@@ -115,6 +122,6 @@
 **Not titles — these are wordless or text-as-content** (so the question doesn't apply):
 
 - Wordless / image-only: **S1, S11, finale ship card**.
-- The line *is* the slide (statement text, not a heading): **S2** (hook), **S3** (self-intro), **S10** ("Same surface. New engine underneath."), **S14** (50/50 lines), **S20** (the AI quote), **S21** ("Looked done. Bugs. Paused."), **S22** (method framing line).
+- The line *is* the slide (statement text, not a heading): **S2** (hook), **S3** (self-intro), **S10** ("Same surface. New engine underneath."), **S14** (50/50 lines), **S21** ("Looked done. Bugs. Paused."), **S22** (method framing line). _(S20 is no longer here — it's now a visual slide: prompt → diff.)_
 
 _**S9 title — decided: "While we were in there"** (2026-06-06). Understated, opportunistic; lets "TypeScript + Tailwind" carry the point without announcing the moral._

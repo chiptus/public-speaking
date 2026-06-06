@@ -27,7 +27,7 @@ Tracking for both of us. **@me** = Claude, **@you** = Chaim. Keep it current.
 - [x] **S9 title — decided: "While we were in there"** (understated, opportunistic; lets "TypeScript + Tailwind" carry the point without announcing the moral). Set in `bit2.md`; designer unblocked.
 - [x] **On-slide text language** — decided: **all on-slide text in English** (S20 now English too — no exceptions). S2 + S10 converted. Tell the designer the deck is English text / Hebrew spoken. — **@you to brief designer**
 - [x] **S20 language — decided: English** (translated). Deck is fully English on-slide now; no deliberate-Hebrew exception. Set in `bit4.md`. Wording: _"It makes you feel anything's possible — you just have to send one more message."_
-- [ ] **S20 floating quote (take 2)** — the quote feels disconnected from S19 (the return); it takes a full slide but doesn't flow from S19. Root cause: S19 does two jobs (built-a-dashboard + started-using-AI) and emphasizes the dashboard, so the quote lands from nowhere. Candidate fix: end S19 on the **AI re-entry** (make it the last beat), demote the dashboard to a small aside (its real payoff is S23), so S20's quote is the immediate consequence. Keep the quote a full slide once connected. — **@you to call**
+- [x] **S20 floating quote — resolved by reshaping the fall** (2026-06-06). S20 is now "the ask," not "the quote": visual = prompt _"convert the stacks page to react"_ → huge diff (~+10k/−5k); **quote moves to spoken.** S19 keeps the small dashboard but its notes now end on the AI turn, so S20's ask is the immediate consequence. Dashboard shown twice = different facets (S19 tool · S23 cropped to X/Y-done). All set in `bit4.md`; rationale in `design-notes.md`.
 
 ## Designer handoff
 
@@ -60,7 +60,9 @@ Tracking for both of us. **@me** = Claude, **@you** = Chaim. Keep it current.
 - [ ] S16 — annotated rich table screenshot
 - [ ] S17 — composable-vs-Datatable code snippets
 - [ ] S18 — annotated real Portainer page (library assembly + refactor bits)
-- [ ] S19 / S23 — dashboard screenshot (small, then full-screen)
+- [ ] S19 — dashboard screenshot (small; the tool view — AJS count over time / prioritization)
+- [ ] S23 — same dashboard, **cropped to the X/Y-components-done metric** (the ~50%), full-screen
+- [ ] **S20 — two new assets:** (a) prompt-UI screenshot/mockup showing _"convert the stacks page to react"_ · (b) the git-diff screenshot from that PR (the real ~+10k/−5k numbers)
 
 ## Production / polish (separate stream, not content)
 

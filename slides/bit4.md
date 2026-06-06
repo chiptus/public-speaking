@@ -48,20 +48,21 @@
 
 - **Visual:**
   - Title (on slide): **The return**
-  - The dashboard screenshot, shown **small** — AJS component count over time, which components to migrate first. A tool. Same artifact returns full-screen at Slide 23.
+  - The dashboard screenshot, shown **small** — AJS count over time, which to migrate first. A tool, itself vibe-coded. (S23 crops to just the X/Y-done metric.)
 - **Notes:**
   - came back, wanted to resume
-  - built a dashboard (AJS count, prioritization) — vibe-coded, just a tool
-  - started figuring out AI → sets up the fall
-  - _Cue:_ let it sit — don't call it "organized"
+  - vibe-coded a little dashboard to see where things stood — just a tool
+  - leaned back into AI → asked it for more ← the turn, sets up the fall
+  - _Cue:_ end on the AI turn → straight into S20, don't drop the thread
 
-### Slide 20 — The fall (the quote)
+### Slide 20 — The fall (the ask)
 
-- **Visual:** _"It makes you feel anything's possible — you just have to send one more message."_ — full slide, English, no attribution
+- **Visual:** two parts — the prompt _"convert the stacks page to react"_ (small chat input) → the resulting diff, huge (~**+10k / −5k**, real numbers from the actual PR). The disproportion is the point: tiny ask → monstrous, unreviewable PR.
 - **Notes:**
-  - warm setup: rusty, "convert the stack page for me"
-  - quote appears → why the ask felt fine
-  - _Cue:_ the quote IS the fall; full stop after
+  - warm setup: rusty, asked for a whole page
+  - quote (spoken, not on slide): "anything's possible — just send one more message"
+  - why it felt fine — stay in the experience, don't name the moral
+  - _Cue:_ let the diff land; top-down→huge-PR is self-evident — bottom-up payoff is S22
 
 ### Slide 21 — Looked done. Bugs. Paused.
 
@@ -83,7 +84,7 @@
 
 ### Slide 23 — The dashboard, full-screen (the 50%)
 
-- **Visual:** The same dashboard from Slide 19, now **full-screen**, focused on the ~50%. **No corner ship here** — the motif drops away so the dashboard goes full-bleed. The break is the signal: this slide is real, not metaphor. (Data-dense slides drop the corner ship generally; see `ship-visual-system.md`.)
+- **Visual:** The same dashboard from Slide 19, now **full-screen but cropped to just the X/Y-components-done metric** — the ~50%, not the whole tool again. **No corner ship here** — the motif drops away so it goes full-bleed. The break is the signal: this slide is real, not metaphor. (Data-dense slides drop the corner ship generally; see `ship-visual-system.md`.)
 - **Notes:**
   - the number lands here, with weight
   - still migrating · progressing · learning — ~50% ahead

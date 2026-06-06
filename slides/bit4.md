@@ -57,7 +57,7 @@
 
 ### Slide 20 — The fall (the quote)
 
-- **Visual:** _"נותן להרגיש שהכל אפשרי, רק צריך לשלוח עוד הודעה"_ — full slide, Hebrew, no attribution
+- **Visual:** _"It makes you feel anything's possible — you just have to send one more message."_ — full slide, English, no attribution
 - **Notes:**
   - warm setup: rusty, "convert the stack page for me"
   - quote appears → why the ask felt fine

@@ -7,9 +7,11 @@
 
 - **Visual:** A ship at sea with its engine being swapped mid-voyage — the PO leaning over the rail asking for a new deck. No text, or minimal.
 - **Notes:**
+  - first merge: another dev built on our stuff → it felt real
+  - turn: "…and that's what you signed up for" → the pain
   - can't stop the running system
-  - PO at the rail wants a new deck _(pun, EN only, optional)_
-  - _Cue:_ image only — lines spoken, no text
+  - PO at the rail wants a new deck _(pun, optional)_
+  - _Cue:_ warm → turn; image only, no text
 
 ## Slide 12 — Two versions of the same component
 

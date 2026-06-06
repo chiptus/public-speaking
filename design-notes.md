@@ -115,6 +115,6 @@
 **Not titles — these are wordless or text-as-content** (so the question doesn't apply):
 
 - Wordless / image-only: **S1, S11, finale ship card**.
-- The line *is* the slide (statement text, not a heading): **S2** (hook), **S3** (self-intro), **S10** ("Same surface. New engine underneath."), **S14** (50/50 lines), **S20** (Hebrew quote), **S21** ("Looked done. Bugs. Paused."), **S22** (method framing line).
+- The line *is* the slide (statement text, not a heading): **S2** (hook), **S3** (self-intro), **S10** ("Same surface. New engine underneath."), **S14** (50/50 lines), **S20** (the AI quote), **S21** ("Looked done. Bugs. Paused."), **S22** (method framing line).
 
-_**S9 title is still open** — the slide gets a title but the wording isn't decided. The beat's notes say "don't announce the moral," so lean understated. Candidates and the live decision live in `todo.md`. The slide file marks it `Title (on slide): TBD`, so the designer knows it's a placeholder._
+_**S9 title — decided: "While we were in there"** (2026-06-06). Understated, opportunistic; lets "TypeScript + Tailwind" carry the point without announcing the moral._

@@ -10,8 +10,8 @@
   - Three lines: _dead library · refactor needed anyway · new features coming_
 - **Notes:**
   - 🔒 seam from Bit 1: _"וזה לא נגמר בבלגן"_ (it wasn't only the mess)
-  - EOL = the trigger, not the whole case (Dec 2021)
-  - migration gave refactoring the legitimacy it couldn't earn alone
+  - EOL = trigger, not the whole case (Dec 2021)
+  - migration legitimized the refactor (couldn't earn it alone)
   - _Cue:_ escalation off Bit 1 — not a restart
 
 ## Slide 6 — How it was decided
@@ -35,8 +35,8 @@
     - incremental
   - **Build behavior (NOT on-slide text — this is an instruction):** all four appear plain on load; strike each through one at a time as the speaker rejects it; `incremental` is the only one left unstruck. **Do not show any strikethrough on load** — the strike happens live, synced to delivery.
 - **Notes:**
-  - the requirements behind the cut — explicit: keep shipping features · implicit: don't freeze dev, don't fragment state/nav
-  - strike each against a requirement: do-nothing = library is dead · rewrite = freezes feature delivery · micro-frontends = fragments state/nav/components · incremental = the only one that meets all
+  - reqs: keep shipping · don't freeze dev · don't fragment state/nav
+  - do-nothing → lib dead · rewrite → freezes delivery · micro-frontends → fragments state/nav · incremental → meets all
   - _Cue:_ strike each → name what it fails
 
 ## Slide 8 — Why incremental + r2a
@@ -50,7 +50,7 @@
 ## Slide 9 — What the migration justified
 
 - **Visual:**
-  - Title (on slide): **TBD** — slide needs a title, wording not yet decided (see `todo.md` → Open decisions, "S9 needs a title")
+  - Title (on slide): **While we were in there**
   - "TypeScript + Tailwind" large, clean
 - **Notes:**
   - migration = cover for improvements that couldn't justify themselves alone
@@ -63,8 +63,8 @@
 - **Visual:** Title alone: "Same surface. New engine underneath."
 - **Notes:**
   - a decision, not a regret
-  - held the UX identical, rebuilt the code beneath
-  - why: no product mandate to change UX · changing the surface muddies attribution (can't tell regression from redesign)
+  - same UX, rebuilt underneath
+  - why: no mandate to change UX · new surface muddies attribution (regression vs redesign)
   - behavior-preserving, still a full refactor — not a translation
   - _Cue / bridge → Bit 3:_ same ship, swap the engine
 

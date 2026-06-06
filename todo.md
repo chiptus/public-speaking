@@ -21,37 +21,35 @@ Tracking for both of us. **@me** = Claude, **@you** = Chaim. Keep it current.
 
 ## Open decisions
 
-- [ ] Slide 24 split — "what stays / what goes" as two halves vs one? (from original handoff) — **@you to call**
+- [x] Slide 24 split — **decided: one slide, two halves.** The two-half structure carries the at-a-glance contrast; splitting breaks it and pads the close.
 - [x] **S2 on-slide lines** — I set them to _"לפני 5 שנים התחלנו לעבור ל-React"_ / _"זה לא סיפור עם סוף"_ to make the visual designer-ready. Confirm/adjust the wording — it's your hook. — **@you**
 - [x] **S13 visual** — **decided: keep the data-flow diagram** (Angular ↔ 2-way vs React → 1-way). It read fine in take 2; the issue was pacing (spent too long on it), not the visual. A little natural dwell here is OK given the speaker runs fast.
-- [ ] **S9 needs a title** — "TypeScript + Tailwind" alone is a label, doesn't state the point. Add a title that carries the idea (the visual can't). This is the one slide where a title clearly earns its place. **Slide file marks the title TBD; designer is blocked on this.** — **@you to pick**
-  - Constraint from the beat: the notes say _"don't announce the moral / don't sell it."_ So lean understated — let "TypeScript + Tailwind" do the work under the title.
-  - Candidates: _"While we were in there"_ (understated, opportunistic — recommended) · _"Since we were rebuilding anyway"_ · _"What the migration justified"_ (= section name, but "justified" states the takeaway aloud) · _"What we added to the mix"_ · or **no title** (treat like the statement slides).
-- [x] **On-slide text language** — decided: **all on-slide text in English**, except the S20 quote (see below). S2 + S10 converted. Tell the designer the deck is English text / Hebrew spoken. — **@you to brief designer**
-- [ ] **S20 — two open questions on the fall quote:**
-  - **Language** — keep it Hebrew? Leaning yes: it's a verbatim quote actually said in Hebrew, and the emotional low point — translating it weakens it and misrepresents it. Would be the one deliberate Hebrew slide (a visual break, like the corner-ship dropping on S23). — **@you to call**
-  - **Floating quote (take 2)** — the quote feels disconnected from S19 (the return); "everything is just behind another prompt" takes a full slide but doesn't flow from S19. Root cause: S19 does two jobs (built-a-dashboard + started-using-AI) and emphasizes the dashboard, so the quote lands from nowhere. Candidate fix: end S19 on the **AI re-entry** (make it the last beat), demote the dashboard to a small aside (its real payoff is S23), so S20's quote is the immediate consequence. Keep the quote a full slide once connected. — **@you to call**
+- [x] **S9 title — decided: "While we were in there"** (understated, opportunistic; lets "TypeScript + Tailwind" carry the point without announcing the moral). Set in `bit2.md`; designer unblocked.
+- [x] **On-slide text language** — decided: **all on-slide text in English** (S20 now English too — no exceptions). S2 + S10 converted. Tell the designer the deck is English text / Hebrew spoken. — **@you to brief designer**
+- [x] **S20 language — decided: English** (translated). Deck is fully English on-slide now; no deliberate-Hebrew exception. Set in `bit4.md`. Wording: _"It makes you feel anything's possible — you just have to send one more message."_
+- [ ] **S20 floating quote (take 2)** — the quote feels disconnected from S19 (the return); it takes a full slide but doesn't flow from S19. Root cause: S19 does two jobs (built-a-dashboard + started-using-AI) and emphasizes the dashboard, so the quote lands from nowhere. Candidate fix: end S19 on the **AI re-entry** (make it the last beat), demote the dashboard to a small aside (its real payoff is S23), so S20's quote is the immediate consequence. Keep the quote a full slide once connected. — **@you to call**
 
 ## Designer handoff
 
 - [x] Strip inline TODOs / "speaker provides" / alt-titles from `slides/bitN.md` — moved here / removed
 - [x] Move per-bit design rationale out of slide files → `design-notes.md` (not for slides, not for speaker-notes pane)
-- [ ] Brief the designer on the split: **Visual** → design it · **Notes (beats / 🔒 / cues)** → speaker-notes pane · section titles → speaker-notes pane only, NOT on the slide · ignore `design-notes.md` — **@you**
-- [ ] Tell designer: corner progress-ship is on almost every slide (build once as a template) — see `ship-visual-system.md`; and RTL/Hebrew layout for any on-slide text — **@you**
-- [ ] **S12 — designer rename only** (snippet already generated): Angular component → `rdWidget`, React component → `Widget` — **@you to relay**
+- [x] Brief the designer on the split: **Visual** → design it · **Notes (beats / 🔒 / cues)** → speaker-notes pane · section titles → speaker-notes pane only, NOT on the slide · ignore `design-notes.md` — **@you**
+- [x] Tell designer: corner progress-ship is on almost every slide (build once as a template) — see `ship-visual-system.md`; and RTL/Hebrew layout for any on-slide text — **@you**
+- [x] **S12 — designer rename only** (snippet already generated): Angular component → `rdWidget`, React component → `Widget` — **@you to relay**
 
 ## Content fixes (still worth a session)
 
 - [ ] S21 fear-attribution — text exists, didn't land in run 1; turn into a sharp delivery cue — **@me**
 - [ ] S10 (old) "unclear" note resolved by reframe; S13 "unclear" flag addressed via diagram (see Open decisions) — **@me**
 - [ ] Bit 1 concrete grab in first 30s — likely satisfied now by S4's giant-controller screenshot; confirm it reads as concrete and not vague — **@me/@you**
-- [x] **Bit 1 ran ~1 min even with pauses** — diagnosis: open was short on *stake*, not silence. Added S4 audience-stake beat (🔒 "אולי יש לכם קוד כזה... אני לא בטוח שזה נכון") — lands the skeleton's מסר לקהל that was on no slide. Fixes thin open + seeds the spine. (`bit1.md`, rationale in `design-notes.md`) — **re-time on next run**
+- [x] **Bit 1 ran ~1 min even with pauses** — diagnosis: open was short on _stake_, not silence. Added S4 audience-stake beat (🔒 "אולי יש לכם קוד כזה... אני לא בטוח שזה נכון") — lands the skeleton's מסר לקהל that was on no slide. Fixes thin open + seeds the spine. (`bit1.md`, rationale in `design-notes.md`) — **re-time on next run**
+
 ## Human story (take 2 — felt thin vs the skeleton)
 
-> Take 2 ran ~25–26 min (target 40 + Q&A, OK to finish early — first talk). Speaker's read: enough *technical* depth; the **human story from the skeleton is what's getting lost.** So the work here is quality, not length — don't pad. Discuss placement, then decide.
+> Take 2 ran ~25–26 min (target 40 + Q&A, OK to finish early — first talk). Speaker's read: enough _technical_ depth; the **human story from the skeleton is what's getting lost.** So the work here is quality, not length — don't pad. Discuss placement, then decide.
 
 - [ ] **Audit where the human story can come back** — the skeleton's [אנושי] beats: CEO conversation (partly on S6), the AI fall (S20, strong), stolen time / 2–3 people in spare time (S24). What else got flattened in the compression to cue-cards? — **@me to draft, @you to react**
-- [ ] **Place the "first merge" moment** — currently parked as a Q&A answer in `design-notes.md`. It's warm + on-spine ("seeing other devs use what you built" = momentum/adoption). Chronologically early (~5 yrs ago), so it can't sit in the Bit 4 AI arc. Candidate homes: (a) end of Bit 2 / into Bit 3 — first React components actually shipping; (b) **inside Bit 3** as the warm counterpoint to the mixed-code pain (Bit 3 currently has no human beat). Leaning (b). — **@you to call**
+- [x] **Place the "first merge" moment** — **decided: S10→S11 seam, as the opening spoken beat of S11** (in `bit3.md` S11 Notes). Framed as the _payoff of the Bit 2 decisions_ (first React components shipped, another dev built on them = momentum), then pivots straight into the mixed-code pain — warm → hard in one move. Not on the slide, not a dwell; S11 visual stays wordless.
 - [ ] Do NOT restore the beats cut for **tone** (silence asymmetry = read as complaint). Those were cut on merit, not length. — **@me note**
 
 ## Speaker-provided assets (@you)

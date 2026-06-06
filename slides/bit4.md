@@ -48,14 +48,14 @@
 
 - **Visual:**
   - Title (on slide): **The return**
-  - The dashboard screenshot, shown **small** — AJS count over time, which to migrate first. A tool, itself vibe-coded. (S23 crops to just the X/Y-done metric.)
+  - The dashboard screenshot, shown **small** — AJS **component** count over time (same unit as S4's 391), which to migrate first. A tool, itself vibe-coded. (S23 crops to just the X/Y-components-done metric.)
 - **Notes:**
   - came back, wanted to resume
   - vibe-coded a little dashboard to see where things stood — just a tool
   - leaned back into AI → asked it for more ← the turn, sets up the fall
   - _Cue:_ end on the AI turn → straight into S20, don't drop the thread
 
-### Slide 20 — The fall (the ask)
+### Slide 20 — The fall
 
 - **Visual:** two parts — the prompt _"convert the stacks page to react"_ (small chat input) → the resulting diff, huge (~**+10k / −5k**, real numbers from the actual PR). The disproportion is the point: tiny ask → monstrous, unreviewable PR.
 - **Notes:**
@@ -69,18 +69,21 @@
 - **Visual:** "Looked done. Bugs. Paused." — minimal
 - **Notes:**
   - looked done · bugs · paused (~2mo ago, now resumed)
-  - every bug blamed on the migration → the *fear* paused it
-  - boundary: often it genuinely *was* the migration
+  - every bug blamed on the migration → the _fear_ paused it
+  - boundary: often it genuinely _was_ the migration
   - _Cue:_ state, don't dramatize — no victim
 
-### Slide 22 — The method
+### Slide 22 — The way out
 
-- **Visual:** Framing line ("Working with AI emphasized the fundamentals — it didn't replace them"), with the principles small beneath: plan → tasks → small units · YAGNI · bottom-up. No diagram.
+- **Visual:** Framing line ("Working with AI emphasized the fundamentals — it didn't replace them"), with the principles small beneath: plan → tasks → small units · e2e tests · YAGNI · bottom-up. No diagram.
 - **Notes:**
-  - AI raises the stakes on the basics — volume wherever you point it
-  - mirror of S18: AI executes the units you used to type
-  - you plan/decompose one layer up; it does the unit
-  - _Cue:_ not magic / not burned — land "bottom-up"
+  - carry the stall in — stuck, a bit scared, project paused
+  - the way out wasn't new: back to the fundamentals I already knew
+  - ask AI for a plan → tasks → plan each → small units, one layer up
+  - e2e tests = the safety net — behavior preserved (same surface), catches the "looked done" bugs
+  - the fall's flip side: AI amplifies wherever you point it (whole page = the monster diff; small units = clean) — mirror of S18
+  - land it: today, I can plan anything with it
+  - _Cue:_ recovery, not a lecture — "moving again," not "conquered AI"
 
 ### Slide 23 — The dashboard, full-screen (the 50%)
 
@@ -88,6 +91,7 @@
 - **Notes:**
   - the number lands here, with weight
   - still migrating · progressing · learning — ~50% ahead
+  - ~50% of the S4 starting count (same unit) — the mountain from Bit 1, half-climbed
   - _Cue:_ proof of Bit 1's "no ending" — let it sit
 - **→ Bridge to Bit 5 (improvised):** _let the ~50% sit._ Then forward: half the road's still ahead → less about the path behind, more about how I walk the rest → S24.
   - _Cue:_ forward — don't name the two halves

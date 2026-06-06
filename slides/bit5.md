@@ -15,7 +15,8 @@
 - **Notes:**
   - both halves face forward — neither is regret
   - "Starting now" is real — already restarted this way
-  - "What I'd want": the dedicated team — most of the road was 2–3 in spare time
+  - "What I'd want": one dedicated team (dev, QA, reviewer), no other priorities
+  - the weight behind it: most of the road was 2–3 people, spare time, for years — say it flat and slow, let it land (not a complaint)
   - VP more involved: once, modest — NOT a win
   - _Cue:_ let the structure carry it; don't say "in/out of my control"
 

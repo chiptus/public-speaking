@@ -33,9 +33,11 @@ no notes
 
 ## Slide 4 — The codebase before
 
-- **Visual:** Screenshot of a real AngularJS controller. Feeling of scale, not reading code.
+- **Visual:** Screenshot of a real AngularJS controller — feeling of scale, not reading code. One number as a callout: **391 components**.
 - **Notes:**
-  - 🔒 אני מוביל את זה מההתחלה. ככה נראה הקוד שלנו באנגולר — קונטרולרים ענקיים, כמעט בלי קומפוננטות, הרבה כפילויות.
+  - 🔒 אני מוביל את זה מההתחלה. ככה נראה הקוד שלנו באנגולר — קונטרולרים ענקיים, כמעט לא מפורקים לקומפוננטות, הרבה כפילויות.
+  - the scale, as a number: **391** AngularJS components to migrate — mostly big, undecomposed views; a few small (buttons etc.). The mountain. (Unit = **components**; must match S19/S23 dashboard so the ~50% traces back.)
+  - _say it as stakes, not a metric — "391 of these, and some look like this"_
   - _(pause, turn to the room)_
   - 🔒 אולי יש לכם קוד כזה, ואתם חושבים שאין מאיפה לזוז. אני חושב שזה לא נכון.
   - _Cue:_ to the room, then stop

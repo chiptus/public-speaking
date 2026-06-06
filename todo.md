@@ -39,7 +39,7 @@ Tracking for both of us. **@me** = Claude, **@you** = Chaim. Keep it current.
 
 ## Content fixes (still worth a session)
 
-- [ ] S21 fear-attribution — text exists, didn't land in run 1; turn into a sharp delivery cue — **@me**
+- [x] S21 fear-attribution — **not a content gap; the text in `bit4.md` S21 notes is fine.** It didn't land in run 1 for lack of *practice*, not lack of words → moved to Rehearsal. — **@you**
 - [ ] S10 (old) "unclear" note resolved by reframe; S13 "unclear" flag addressed via diagram (see Open decisions) — **@me**
 - [ ] Bit 1 concrete grab in first 30s — likely satisfied now by S4's giant-controller screenshot; confirm it reads as concrete and not vague — **@me/@you**
 - [x] **Bit 1 ran ~1 min even with pauses** — diagnosis: open was short on _stake_, not silence. Added S4 audience-stake beat (🔒 "אולי יש לכם קוד כזה... אני לא בטוח שזה נכון") — lands the skeleton's מסר לקהל that was on no slide. Fixes thin open + seeds the spine. (`bit1.md`, rationale in `design-notes.md`) — **re-time on next run**
@@ -48,13 +48,14 @@ Tracking for both of us. **@me** = Claude, **@you** = Chaim. Keep it current.
 
 > Take 2 ran ~25–26 min (target 40 + Q&A, OK to finish early — first talk). Speaker's read: enough _technical_ depth; the **human story from the skeleton is what's getting lost.** So the work here is quality, not length — don't pad. Discuss placement, then decide.
 
-- [ ] **Audit where the human story can come back** — the skeleton's [אנושי] beats: CEO conversation (partly on S6), the AI fall (S20, strong), stolen time / 2–3 people in spare time (S24). What else got flattened in the compression to cue-cards? — **@me to draft, @you to react**
+- [x] **Audit where the human story can come back** — **done (surgical expansion, 2026-06-06).** Expanded **S22** ("The method" → "The way out") into the lived recovery + added **e2e tests** to the fundamentals; sharpened **S24** stolen-time beat (own beat + flat/slow cue). CEO beat stays improvised (not on slides); S21 fear → rehearsal item. First-merge already placed at S11. Rationale in `design-notes.md`.
 - [x] **Place the "first merge" moment** — **decided: S10→S11 seam, as the opening spoken beat of S11** (in `bit3.md` S11 Notes). Framed as the _payoff of the Bit 2 decisions_ (first React components shipped, another dev built on them = momentum), then pivots straight into the mixed-code pain — warm → hard in one move. Not on the slide, not a dwell; S11 visual stays wordless.
 - [ ] Do NOT restore the beats cut for **tone** (silence asymmetry = read as complaint). Those were cut on merit, not length. — **@me note**
 
 ## Speaker-provided assets (@you)
 
 - [ ] S4 — screenshot of a real giant AngularJS controller
+- [x] **S4 — the starting count number** = **391 components** (set in `bit1.md`, on-slide callout + spoken). Unit = **components** across S4/S19/S23. LOC rejected (misleading average vs the skewed distribution). Verbatim tweaked ("almost no components" → "barely decomposed into components") to avoid clashing with "391 components." **@you: sanity-check the Hebrew wording** and confirm the dashboard's ~50% is of components, not another unit.
 - [x] S11 — engine-swapped-at-sea ship image
 - [ ] S15 — screenshots of repeated copy-paste patterns (old code)
 - [ ] S16 — annotated rich table screenshot
@@ -75,3 +76,5 @@ Tracking for both of us. **@me** = Claude, **@you** = Chaim. Keep it current.
 ## Rehearsal (@you)
 
 - [ ] Memorize Bit 1 verbatim + the last line; improvise everything else
+- [ ] **Practice S21 fear-attribution** — the words are there; rehearse the delivery so it lands (state flat, no victim; "the fear paused it, not the bugs")
+- [ ] **Practice S22 "The way out"** — it's now a lived recovery beat, not a bullet read: carry the stall in → back to fundamentals → "today I can plan anything with it"

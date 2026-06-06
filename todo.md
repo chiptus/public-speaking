@@ -45,6 +45,7 @@ Tracking for both of us. **@me** = Claude, **@you** = Chaim. Keep it current.
 - [ ] S21 fear-attribution — text exists, didn't land in run 1; turn into a sharp delivery cue — **@me**
 - [ ] S10 (old) "unclear" note resolved by reframe; S13 "unclear" flag addressed via diagram (see Open decisions) — **@me**
 - [ ] Bit 1 concrete grab in first 30s — likely satisfied now by S4's giant-controller screenshot; confirm it reads as concrete and not vague — **@me/@you**
+- [x] **Bit 1 ran ~1 min even with pauses** — diagnosis: open was short on *stake*, not silence. Added S4 audience-stake beat (🔒 "אולי יש לכם קוד כזה... אני לא בטוח שזה נכון") — lands the skeleton's מסר לקהל that was on no slide. Fixes thin open + seeds the spine. (`bit1.md`, rationale in `design-notes.md`) — **re-time on next run**
 ## Human story (take 2 — felt thin vs the skeleton)
 
 > Take 2 ran ~25–26 min (target 40 + Q&A, OK to finish early — first talk). Speaker's read: enough *technical* depth; the **human story from the skeleton is what's getting lost.** So the work here is quality, not length — don't pad. Discuss placement, then decide.

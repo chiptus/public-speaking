@@ -22,7 +22,7 @@
 - **Notes:**
   - table = worked example; screenshot shows the scope
   - patterns → pick TanStack (headless, we own markup) → design API
-  - _Cue:_ "all these needs, one component" = pressure into S17; name TanStack aloud
+  - _Cue:_ say "TanStack" aloud → pressure into S17
 
 ### Slide 17 — The table: implementation evolution
 
@@ -53,7 +53,7 @@
   - came back, wanted to resume
   - built a dashboard (AJS count, prioritization) — vibe-coded, just a tool
   - started figuring out AI → sets up the fall
-  - _Cue:_ let it sit, don't call it "organized" — the fall lands harder
+  - _Cue:_ let it sit — don't call it "organized"
 
 ### Slide 20 — The fall (the quote)
 
@@ -79,7 +79,7 @@
   - AI raises the stakes on the basics — volume wherever you point it
   - mirror of S18: AI executes the units you used to type
   - you plan/decompose one layer up; it does the unit
-  - _Cue:_ not "magic," not "burned me"; let "bottom-up" resonate
+  - _Cue:_ not magic / not burned — land "bottom-up"
 
 ### Slide 23 — The dashboard, full-screen (the 50%)
 
@@ -89,7 +89,7 @@
   - still migrating · progressing · learning — ~50% ahead
   - _Cue:_ proof of Bit 1's "no ending" — let it sit
 - **→ Bridge to Bit 5 (improvised):** _let the ~50% sit._ Then forward: half the road's still ahead → less about the path behind, more about how I walk the rest → S24.
-  - _Cue:_ forward on purpose — pre-empts regret; don't name the two halves
+  - _Cue:_ forward — don't name the two halves
 
 ---
 

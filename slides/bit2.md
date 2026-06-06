@@ -37,7 +37,7 @@
 - **Notes:**
   - the requirements behind the cut — explicit: keep shipping features · implicit: don't freeze dev, don't fragment state/nav
   - strike each against a requirement: do-nothing = library is dead · rewrite = freezes feature delivery · micro-frontends = fragments state/nav/components · incremental = the only one that meets all
-  - _Cue:_ strike each as you reject it — name the requirement it fails
+  - _Cue:_ strike each → name what it fails
 
 ## Slide 8 — Why incremental + r2a
 
@@ -45,7 +45,7 @@
 - **Notes:**
   - r2a = simplest fit · new features in React from day one
   - React components run inside Angular → kills most dual-maintenance
-  - _Cue:_ exceptions belong to Bit 3 — don't open mixed-code pain here
+  - _Cue:_ don't open the pain yet (→ Bit 3)
 
 ## Slide 9 — What the migration justified
 
@@ -56,7 +56,7 @@
   - migration = cover for improvements that couldn't justify themselves alone
   - TS + Tailwind, merged in the first PRs
   - grace note: I argued against TypeScript; we did it anyway; far easier now
-  - _Cue:_ "I was against it" = small aside, not a confession — don't sell it
+  - _Cue:_ "I was against it" — aside, don't sell
 
 ## Slide 10 — Same surface, new engine
 

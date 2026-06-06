@@ -22,20 +22,22 @@ no notes
   - line 2: _This story has no ending_
   - (Large type. No ship, no other elements.)
 - **Notes:**
-  - 🔒 התחלנו לפני חמש שנים להעביר את האפליקציה ל-React. זה לא סיפור עם סוף.
+  - 🔒 התחלנו לפני חמש שנים להעביר את האפליקציה לריאקט. זה לא סיפור עם סוף.
 
 ## Slide 3 — Self-intro
 
 - **Visual:** Chaim Lev-Ari / Software developer, Portainer.io
 - **Notes:**
-  - 🔒 שמי חיים, אני מפתח ב-Portainer מאז 2018 — פלטפורמה לניהול קונטיינרים.
+  - 🔒 שמי חיים, אני מפתח בפורטיינר מאז 2018 — פלטפורמה לניהול קונטיינרים.
   - _Cue:_ brisk, don't linger
 
 ## Slide 4 — The codebase before
 
 - **Visual:** Screenshot of a real AngularJS controller. Feeling of scale, not reading code.
 - **Notes:**
-  - 🔒 אני מלווה את זה מההתחלה. ככה נראה הקוד שלנו ב-AngularJS לפני — קונטרולרים ענקיים, כמעט בלי קומפוננטות, הרבה כפילויות.
-  - _Cue:_ let the mess register
+  - 🔒 אני מוביל את זה מההתחלה. ככה נראה הקוד שלנו באנגולר — קונטרולרים ענקיים, כמעט בלי קומפוננטות, הרבה כפילויות.
+  - _(pause, turn to the room)_
+  - 🔒 אולי יש לכם קוד כזה, ואתם חושבים שאין מאיפה לזוז. אני חושב שזה לא נכון.
+  - _Cue:_ to the room, then stop
 
 _(Design rationale for this bit → `design-notes.md`.)_

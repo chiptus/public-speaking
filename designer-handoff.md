@@ -32,32 +32,34 @@ Each slide is one block:
 
 ## Critical rules
 
-1. **No on-slide title by default.** Most slides are an image or one line — a title would compete with it. Only add a title when the `Visual:` line says so. (One slide, **S9**, is an open question — see below.)
+1. **No on-slide title by default.** Most slides are an image or one line — a title would compete with it. Only add a title when the `Visual:` line says so.
 
-2. **Don't print spoken lines on the slide.** Several slides are deliberately **wordless / image-only** — the speaker says the line aloud. Never copy a 🔒 line onto the slide face. Wordless or near-wordless slides: **S1, S11, finale ship card**, and the screenshot/diagram slides (S4, S15–S19, S23) carry only labels/callouts, not prose.
+2. **A `Visual:` line is a _description_, not text to typeset.** Put on the slide only what is **quoted** or marked **"on slide" / "Title (on slide)"**. Everything else in a Visual line is build spec + intent for you — e.g. S20's *"the disproportion is the point"* and S17's *"the volume contrast is the message"* are direction, **not** on-slide copy.
 
-3. **On-slide text is English** (talk is spoken in Hebrew). **One exception, still open: S20** — a Hebrew quote may stay Hebrew. Treat S20 as TBD until the speaker confirms (see open items). No RTL layout needed for anything else.
+3. **Don't print spoken lines on the slide.** Several slides are deliberately **wordless / image-only** — the speaker says the line aloud. Never copy a 🔒 line onto the slide face. Wordless or near-wordless slides: **S1, S11, finale ship card**; the screenshot/diagram/mockup slides (S4, S15–S20, S23) carry only labels/callouts/the mockup's own content, not prose.
 
-4. **The recurring ship** — read `slides/ship-visual-system.md` first. A small **progress ship** sits in the top-right corner of *almost every slide*, its planks filling grey→green as the talk progresses (~half-green by the end). **Build it once as a master/template**, don't redraw per slide. It **drops away on data-dense slides** (notably S23, the full-bleed dashboard). The big ship appears large only on **Slide 1** (all-grey) and the **closing card** (~half-green). Never put words on any ship.
+4. **On-slide text is English** (talk is spoken in Hebrew). **No exceptions** — the deck is fully English on-slide, so no RTL layout is needed anywhere. (S20's quote is now spoken aloud, not on the slide.)
+
+5. **The recurring ship** — read `slides/ship-visual-system.md` first. A small **progress ship** sits in the top-right corner of *almost every slide*, its planks filling grey→green as the talk progresses (~half-green by the end). **Build it once as a master/template**, don't redraw per slide. It **drops away on data-dense slides** (notably S23, the full-bleed dashboard). The big ship appears large only on **Slide 1** (all-grey) and the **closing card** (~half-green). Never put words on any ship.
 
 ---
 
-## Open decisions that affect your work (speaker to resolve — see `todo.md`)
+## Recently decided — build to these (previously open, now final)
 
-- **S2** — the two hook lines are set ("5 years ago we started moving to React" / "This story has no ending") but the speaker may reword. Confirm before finalizing.
-- **S9** — likely needs a **title** (the visual "TypeScript + Tailwind" is too thin alone). Candidate titles pending speaker pick. Don't finalize this slide yet.
-- **S13** — visual resolved to a **data-flow diagram** (Angular 2-way vs React 1-way); a code-snippet alternative is still on the table. Confirm before building.
-- **S20** — Hebrew vs English (above).
+- **S2** — hook lines confirmed: "5 years ago we started moving to React" / "This story has no ending."
+- **S9** — **title decided: "While we were in there"**, with "TypeScript + Tailwind" large beneath it.
+- **S13** — **data-flow diagram** confirmed (Angular 2-way vs React 1-way). The code-snippet alternative is dropped.
+- **S20** — **reshaped, no longer a quote slide.** Two-part visual: a small chat-input mockup showing the prompt *"convert the stacks page to react"* → the resulting **huge git diff** (~+10k/−5k). Lay it out so the size contrast dominates (tiny ask → massive unreviewable PR). The reflective quote is spoken aloud, not on the slide.
 
 ## Assets the speaker still owes you
 
-Real screenshots / code snippets for **S4, S11, S12, S15, S16, S17, S18, S19/S23**. Full list in `todo.md` under "Speaker-provided assets." Don't block on these — design the layouts with placeholders.
+Real screenshots / code snippets for **S4, S15, S16, S17, S18, S19, S20, S23**. Note S20 needs **two** assets: the prompt-UI mockup ("convert the stacks page to react") and the git-diff screenshot (real ~+10k/−5k numbers). S19 = small dashboard (tool view); S23 = same dashboard cropped to the X/Y-components-done metric. (The S11 image and the S12 snippet are already in hand.) Full list in `todo.md` under "Speaker-provided assets." Don't block on these — design the layouts with placeholders.
 
 ---
 
 ## Status of the deck right now
 
-The slide files were just cleaned for handoff: all inline TODOs, "speaker provides" notes, alt-titles, and per-bit design rationale were stripped out (rationale → `design-notes.md`, action items → `todo.md`). So what's left in `slides/*.md` is meant to be taken literally as spec — with the four open decisions above flagged.
+The slide files were cleaned for handoff: all inline TODOs, "speaker provides" notes, alt-titles, and per-bit design rationale were stripped out (rationale → `design-notes.md`, action items → `todo.md`). So what's left in `slides/*.md` is meant to be taken literally as spec — **per Critical Rule 2, "literally" means the quoted/marked text, not the descriptive prose around it.** The previously-open decisions (S2, S9, S13, S20) are now resolved — see "Recently decided" above.
 
 ---
 

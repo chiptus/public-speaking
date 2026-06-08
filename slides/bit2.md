@@ -12,6 +12,7 @@
   - 🔒 seam from Bit 1: _"וזה לא נגמר בבלגן"_ (it wasn't only the mess)
   - hiring = the real trigger: no dev wants to start on a dead framework (CEO arg, S6)
   - EOL = a known deadline since 2018, not a surprise — we prepared, didn't react
+  - _Dates (say cleanly — take-3 garbled these):_ known/announced **since 2018**, actual **EOL Dec 2021**. Don't flip them.
   - refactor we'd do anyway → migration legitimized it
   - _(bg ref:_ initial migration commit → https://github.com/portainer/portainer/commit/85a6a807226d9f3baf7ec265022f130aed1eddd1 _)_
   - _Cue:_ escalation off Bit 1 — not a restart
@@ -23,6 +24,7 @@
   - Flow: Internal discussions → Frontend team meeting → React
 - **Notes:**
   - leadership layer: "can't hire" for AngularJS
+  - _human beat (don't flatten to process):_ a real conversation with the CEO — made the hiring argument in **his** language, not ours. This is the warm note of the bit; take-3 dissolved it into "talks → green light."
   - team layer: ecosystem · familiarity · ownership
   - _Cue:_ land "decided together, not top-down"
 
@@ -37,7 +39,7 @@
   - **Build behavior (NOT on-slide text — this is an instruction):** all three appear plain on load; strike each through one at a time as the speaker rejects it; `incremental` is the only one left unstruck. **Do not show any strikethrough on load** — the strike happens live, synced to delivery.
 - **Notes:**
   - reqs: keep shipping · don't freeze dev · don't fragment state/nav
-  - rewrite → freezes delivery · micro-frontends → fragments state/nav · incremental → meets all
+  - rewrite (as a separate team's parallel build) → freezes delivery / forces double-dev in AngularJS · micro-frontends → fragments state/nav · incremental → meets all
   - _Cue:_ strike each → name what it fails
 
 ## Slide 8 — Why incremental + r2a
@@ -76,6 +78,7 @@
 - **Notes:**
   - a decision, not a regret
   - same UX, rebuilt underneath
+  - _take-3 line (keep it — sharper than "same UX"):_ users don't know it's React, don't know it's Angular — **they don't need to know. Same app to them.**
   - why: no mandate to change UX · new surface muddies attribution (regression vs redesign)
   - behavior-preserving, still a full refactor — not a translation
   - _Cue / bridge → Bit 3:_ same ship, swap the engine

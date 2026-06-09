@@ -8,6 +8,7 @@
 - **Visual:**
   - Title (on slide): **Why it had to change**
   - Three lines: _hard to hire · refactor needed anyway · EOL deadline (Dec 2021)_
+  - **Build behavior:** items appear one at a time in order (hiring → refactor → EOL); all stay at full brightness as each appears — they accumulate, not replace.
 - **Notes:**
   - 🔒 seam from Bit 1: _"וזה לא נגמר בבלגן"_ (it wasn't only the mess)
   - hiring = the real trigger: no dev wants to start on a dead framework (CEO arg, S6)

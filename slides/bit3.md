@@ -36,6 +36,7 @@
 ## Slide 14 — 50/50
 
 - **Visual:** "This is not a transition phase." / "This is how it runs." / "For years." — three lines, large, centered
+  - **Build behavior:** one line at a time, in order. Pause after each. The silence after "For years." is the point — don't rush it.
 - **Notes:**
   - the key reframe — line is on the slide
   - _Cue:_ say as fact, not complaint — let it sit

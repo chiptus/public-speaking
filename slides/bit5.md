@@ -11,6 +11,7 @@
 - **Visual:** One slide, two stacked rows — **no slide title**; each band's header carries the split. White "mine" band taller (2×2 grid); navy "need" band short, hugging its two items — the height asymmetry shows "lots is mine, one thing isn't."
   - **What I'd do differently** (no label — self-evidently mine): bottom-up — small targets, not "migrate everything" · guardrails first — e2e that pins behavior, before migrating · document decisions, revisit them · show the team the progress
   - **What I'd need** _(green label: NOT MINE TO GRANT — kept; it's what keeps the band from reading as a complaint):_ a real priority — a dedicated team (2 devs, 1 QA) · product in the loop — rank which views matter, call what's dead
+  - **Build behavior:** "What I'd do differently" row (all 4 items) appears first. "What I'd need" row appears as a second beat — the asymmetry lands when the short navy band arrives against the taller white one.
 - **Notes:**
   - the split is agency, not regret
   - "do differently" is real — already restarted bottom-up this way

@@ -78,6 +78,7 @@
 ### Slide 22 — The way out
 
 - **Visual:** Framing line ("Working with AI emphasized the fundamentals — it didn't replace them"), with the principles small beneath: plan → tasks → small units · e2e tests · YAGNI · bottom-up. No diagram.
+  - **Build behavior:** framing line appears first, alone. All four principles appear together on the next beat — they're a cluster ("back to basics"), not a sequence.
 - **Notes:**
   - carry the stall in — stuck, a bit scared, project paused
   - the way out wasn't new: back to the fundamentals I already knew

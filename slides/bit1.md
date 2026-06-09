@@ -1,7 +1,7 @@
 # Bit 1 — Opening (Slides 1–4)
 
 > ~3 min. Sets the spine; no payoff yet.
-> **Whole open: slow · full stops · let silence sit.** (Slide 3 is the one exception — brisk.)
+> **Whole open: slow · full stops · let silence sit.**
 > 🔒 = learned word-for-word. Cues are glance-only, never spoken.
 
 ## title
@@ -24,12 +24,16 @@ no notes
 - **Notes:**
   - 🔒 התחלנו לפני חמש שנים להעביר את האפליקציה לריאקט. זה לא סיפור עם סוף.
 
-## Slide 3 — Self-intro
+## Slide 3 — Self-intro + setup
 
 - **Visual:** Chaim Lev-Ari / Software developer, Portainer.io
 - **Notes:**
   - 🔒 שמי חיים, אני מפתח בפורטיינר מאז 2018 — פלטפורמה לניהול קונטיינרים.
-  - _Cue:_ brisk, don't linger
+  - then, flat (English draft → render to Hebrew, own lines):
+    - size: "we were 3–4 devs back then; today ~10–15"
+    - role: "I've led this largely on my own — the team backed me, the push was mine"
+    - condition: "and it's never been the priority"
+  - _Cue:_ no longer brisk — slow and flat, let it sit; "never the priority" plants here, pays off at S24
 
 ## Slide 4 — The codebase before
 

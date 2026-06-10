@@ -47,6 +47,7 @@ One mechanic, generalized from S7's strike: exactly one unit is **active** (lit 
 - The ship is the talk's single unified metaphor (Bit 1, Ship of Theseus), now shown in its working state — no competing plane.
 - S13 was flagged "unclear" in run 1 (`takes/take1/notes1.md`) — keep it concrete: one symptom (the wrapper), one cost (two mental models), no API tour.
 - Bridge springs straight off S14, no reach-back into Bit 3.
+- **2→3 seam = a question on S11, not a bridge line on S10 (2026-06-10).** Sagit's "seams as questions" → only 2→3 needed it (1→2 and 3→4 were already questions; 4→5 stays the thesis, not a question). The question — _"how do you swap an engine while the ship's still sailing?"_ — is asked **as S11's engine-at-sea image reveals**, not as a spoken bridge over S10. A seam line that describes the image would narrate/deflate the visual (and S10 "new engine underneath" + S11 already share the metaphor). S10→S11 run quick (<1 min) on purpose — pivot beats, not teaching beats; Bit 3's weight is S14's "for years" pause.
 
 ### Decisions made (Bit 3 session)
 

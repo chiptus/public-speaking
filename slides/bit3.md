@@ -9,9 +9,9 @@
 - **Notes:**
   - first merge: another dev built on our stuff → it felt real
   - turn: "…and that's what you signed up for" → the pain
-  - can't stop the running system
+  - **Speak (the 2→3 seam — ask it as the image lands, not before):** _"how do you swap an engine while the ship's still sailing?"_ → can't stop the running system
   - PO at the rail wants a new deck _(pun, optional)_
-  - _Cue:_ warm → turn; image only, no text
+  - _Cue:_ warm → turn → the question; image only, no text. Don't say the question over S10 — it would narrate this image.
 
 ## Slide 12 — Two versions of the same component
 

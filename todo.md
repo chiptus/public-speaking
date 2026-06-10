@@ -74,7 +74,7 @@ The villain is **indifference, not resistance** — nobody opposed the migration
 
 - [x] **S3 → "Self-intro + setup"** (done, `bit1.md`) — name/role + size arc (3–4 → ~10–15) + "led it largely on my own" + "never the priority," all spoken flat over the existing name card. S3 loses its "brisk" cue. "Never the priority" plants here, pays off at S24.
 - [x] S4 unchanged (it stays _reasons to move + the mess_; conditions are not its theme).
-- [ ] Render the new English-draft spoken lines to Hebrew (isolated lines — avoid inline RTL mixing): title **Speak** orientation line · S3 size/role/condition lines · S4 audience question ("anyone here sitting on legacy code…") · the S4→S5 bridge. _(S4 changed 2026-06-10: opens with a live audience question + ~3s pause, then 🔒 "אז רציתי לספר לכם שזה אפשרי"; hook softened to "זה עדיין לא נגמר".)_
+- [x] Render the new English-draft spoken lines to Hebrew (isolated lines — avoid inline RTL mixing): title **Speak** orientation line · S3 size/role/condition lines · S4 audience question ("anyone here sitting on legacy code…") · the S4→S5 bridge · S11 2→3 question ("how do you swap an engine while the ship's still sailing?"). _(S4 changed 2026-06-10: opens with a live audience question + ~3s pause, then 🔒 "אז רציתי לספר לכם שזה אפשרי"; hook softened to "זה עדיין לא נגמר".)_
 
 ## Open / next
 
@@ -85,6 +85,6 @@ The villain is **indifference, not resistance** — nobody opposed the migration
 - [x] Land the takeaway as a spoken line at the S23→S24 bridge (no new slide) — done in `bit4.md`
 - [x] Title + central **question** up front — title card in `bit1.md`: title + one orienting line (NOT the message; question stays at the ship S2)
 - [x] Within-slide anchors → S5 (accumulate) done; S7 already the pattern; S22/S24 excluded with reason. See callout above + `design-notes.md` Bit 2.
-- [ ] Write 1→2 and 2→3 transitions
+- [x] Bit-seam transitions (Sagit's "seams as questions") — mapped all four: 1→2 and 3→4 already questions; 4→5 stays the thesis (not a question); **2→3 = a question on S11** ("how do you swap an engine while the ship's still sailing?"), asked as the image lands, not as a bridge over S10. (`bit3.md` S11, `design-notes.md` Bit 3, 2026-06-10)
 - [ ] Q&A prep — why migrate · how long · how many to convince · why so slow
 - [x] (carried from skeleton) self-intro phrasing · dashboard screenshot for S23

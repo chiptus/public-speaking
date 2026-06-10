@@ -21,7 +21,7 @@
 
 ### Finale — wordless closing ship card
 
-- **Visual:** The big ship, well-progressed (more blue than red, but not all-blue/finished), sailing. The literal last image; holds through Q&A. Close half of the open/close bookend (Slide 1 = whole, all-red; close = whole, well-progressed, still sailing). Exact fraction is symbolic — don't count planks.
+- **Visual:** The big ship, well-progressed (more blue than red, but not all-blue/finished), sailing. The literal last image; holds through Q&A. Close half of the open/close bookend (Slide 2 = whole, all-red; close = whole, well-progressed, still sailing). Exact fraction is symbolic — don't count planks.
 - **Notes:**
   - 🔒 SAY (verbatim) — the last words of the talk:
     > שאלנו אם זו עדיין אותה ספינה. היום היא חצי ישנה, חצי חדשה — עדיין שטה, עדיין נבנית.

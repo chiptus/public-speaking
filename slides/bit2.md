@@ -1,7 +1,7 @@
 # Bit 2 — The Decisions (Slides 5–10)
 
-> 4–5 min. Cards are beats + one cue, never rationale — the "why" lives in Design notes below.
-> 🔒 = learned word-for-word. Cues are glance-only, never spoken.
+> Cards carry beats **plus a spoken cue** — the speaker voices the reasoning live, in his own words, shaped **constraint → tension → decision**.
+> 🔒 = learned word-for-word. **Speak:** = the reasoning he says out loud (prompts, not a script — don't memorize). _Cue:_ = silent staging/delivery prompt. The editorial "why" still lives in `design-notes.md`.
 
 ## Slide 5 — Why it had to change
 

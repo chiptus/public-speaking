@@ -48,7 +48,7 @@
 
 - **Visual:**
   - Title (on slide): **The return**
-  - The dashboard screenshot, shown **small** — AJS **component** count over time (same unit as S4's 391), which to migrate first. A tool, itself vibe-coded. (S23 crops to just the X/Y-components-done metric.)
+  - The dashboard screenshot, shown **small** — AJS **component** count over time (same unit as S1's 391), which to migrate first. A tool, itself vibe-coded. (S23 crops to just the X/Y-components-done metric.)
 - **Notes:**
   - came back, wanted to resume
   - vibe-coded a little dashboard to see where things stood — just a tool
@@ -94,10 +94,17 @@
 - **Notes:**
   - the number lands here, with weight
   - still migrating · progressing · learning — ~50% ahead
-  - ~50% of the S4 starting count (same unit) — the mountain from Bit 1, half-climbed
+  - ~50% of the S1 starting count (same unit) — the mountain from Bit 1, half-climbed
   - _Cue:_ proof of Bit 1's "no ending" — let it sit
-- **→ Bridge to Bit 5 (improvised):** _let the ~50% sit._ Then forward: half the road's still ahead → less about the path behind, more about how I walk the rest → S24.
-  - _Cue:_ forward — don't name the two halves
+- **→ Bridge to Bit 5 — the spoken takeaway, then forward (three beats):**
+  1. _let the ~50% sit_ — the silence does work
+  2. 🔒 **the takeaway** — eyes up off the dashboard, to the room. The talk's one spoken takeaway (the thesis; generalizes the personal number into the "you" claim). Two breaths, the dash is a held pause:
+     > אתם לא תקועים עם קוד ישן.
+     > אפשר להגר אותו תוך כדי שאתם ממשיכים לשלוח — בתנאי שאתם כנים עם עצמכם שזה מסע של שנים, לא ספרינט.
+     >
+     > _(EN, meaning-check: You're not stuck with legacy code. You can migrate it while you keep shipping — as long as you're honest that it's a multi-year campaign, not a sprint.)_
+  3. **forward pivot** (drops back to first-person, feeds S24): half the road's still ahead → less about the path behind, more about how I walk the rest → S24
+  - _Cue:_ takeaway = thesis to the room (direct "you"); the pivot returns to first-person. Don't preview S24's ask. Don't name the two halves.
 
 ---
 

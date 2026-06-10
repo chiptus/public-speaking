@@ -1,49 +1,44 @@
 # Bit 1 — Opening (Slides 1–4)
 
-> ~3 min. Sets the spine; no payoff yet.
-> **Whole open: slow · full stops · let silence sit.**
-> 🔒 = learned word-for-word. Cues are glance-only, never spoken.
+> ~3 min. Code-first: problem → ship → intro → room. Slow · full stops · let silence sit.
+> 🔒 = say verbatim · **Speak** = say live (prompt, not script) · _Cue_ = staging, never spoken. Rationale → `design-notes.md`.
 
 ## title
 
-no notes
+- **Visual:** Title on slide: **"AngularJS → React: Moving a Mountain Incrementally"**
+- **Notes:**
+  - **Speak:** _"how we've been moving a large product off a dead framework — incrementally, five years, still shipping."_
+  - _Cue:_ ~10s, then go to the code. Not an agenda.
 
-## Slide 1 — Ship (wordless)
+## Slide 1 — The codebase (the problem)
+
+- **Visual:** Screenshot of a real AngularJS controller — the feeling of scale, not reading code. One callout: **391 components**.
+- **Notes:**
+  - 🔒 ככה נראה הקוד שלנו באנגולר — קונטרולרים ענקיים, כמעט לא מפורקים לקומפוננטות, הרבה כפילויות. 391 קומפוננטות להגר. התחלנו להעביר את זה לריאקט לפני חמש שנים. זה עדיין לא נגמר
+  - _Cue:_ 391 = stakes, not a metric · let "no ending" sit.
+
+## Slide 2 — The ship (the question)
 
 - **Visual:** Big red ship (all-red = 0% migrated), whole, sailing. No text.
 - **Notes:**
-  - 🔒 יש שאלה ישנה — אם מחליפים את כל הקרשים של ספינה, אחד אחד, האם זו עדיין אותה ספינה? זאת בדיוק השאלה ששאלתי על האפליקציה שלנו: איך בונים אותה מחדש בפריימורק חדש — בלי לשנות אותה?
-  - _Cue:_ ask, then stop
-
-## Slide 2 — Hook
-
-- **Visual:** Two lines of text, centered, nothing else:
-  - line 1: _5 years ago we started moving to React_
-  - line 2: _This story has no ending_
-  - (Large type. No ship, no other elements.)
-- **Notes:**
-  - 🔒 התחלנו לפני חמש שנים להעביר את האפליקציה לריאקט. זה לא סיפור עם סוף.
+  - 🔒 יש שאלה ישנה — אם מחליפים את כל הקרשים של ספינה, אחד אחד, האם זו עדיין אותה ספינה? זאת בדיוק השאלה ששאלתי על האפליקציה שלנו: איך בונים אותה מחדש בפריימוורק חדש — בלי לשנות אותה?
+  - _Cue:_ never say "Ship of Theseus" · ask, then stop.
 
 ## Slide 3 — Self-intro + setup
 
 - **Visual:** Chaim Lev-Ari / Software developer, Portainer.io
 - **Notes:**
   - 🔒 שמי חיים, אני מפתח בפורטיינר מאז 2018 — פלטפורמה לניהול קונטיינרים.
-  - then, flat (English draft → render to Hebrew, own lines):
-    - size: "we were 3–4 devs back then; today ~10–15"
-    - role: "I've led this largely on my own — the team backed me, the push was mine"
-    - condition: "and it's never been the priority"
-  - _Cue:_ no longer brisk — slow and flat, let it sit; "never the priority" plants here, pays off at S24
+  - **Speak** (flat, own lines): 3–4 devs then · ~10–15 now · "led it largely on my own" · "never the priority"
+  - _Cue:_ slow, flat · "never the priority" pays off at S24.
 
-## Slide 4 — The codebase before
+## Slide 4 — To the room
 
-- **Visual:** Screenshot of a real AngularJS controller — feeling of scale, not reading code. One number as a callout: **391 components**.
+- **Visual:** The Slide 1 codebase screenshot, brought back as a callback — so "code like this" has something to point at. The springboard into Bit 2.
 - **Notes:**
-  - 🔒 אני מוביל את זה מההתחלה. ככה נראה הקוד שלנו באנגולר — קונטרולרים ענקיים, כמעט לא מפורקים לקומפוננטות, הרבה כפילויות.
-  - the scale, as a number: **391** AngularJS components to migrate — mostly big, undecomposed views; a few small (buttons etc.). The mountain. (Unit = **components**; must match S19/S23 dashboard so the ~50% traces back.)
-  - _say it as stakes, not a metric — "391 of these, and some look like this"_
-  - _(pause, turn to the room)_
-  - 🔒 אולי יש לכם קוד כזה, ואתם חושבים שאין מאיפה לזוז. אני חושב שזה לא נכון.
-  - _Cue:_ to the room, then stop
+  - Someone who was/is in this situation? Who had an old legacy code and wanted to migrate from it?
+  - 🔒 אז רציתי לספר לכם שזה אפשרי.
+  - _Cue:_ to the room, then stop.
+  - **→ Bridge → Bit 2 (say live):** _"how do you move something this big? one decision — and not the mess. messy code you refactor in place. we moved because the ground under it was going away."_ → S5.
 
-_(Design rationale for this bit → `design-notes.md`.)_
+_(Rationale, build behavior, design history → `design-notes.md`.)_

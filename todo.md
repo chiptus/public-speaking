@@ -24,6 +24,22 @@ The missing **context** phase + the **unspoken reasoning** under every card ≈ 
 
 ---
 
+## Rehearsal time budget (2026-06-10) — check the next dry-run against this
+
+**Drop the "1 min/slide" model** — that uniform pace _is_ the flat 25-min talk. A tech talk is front-loaded: connective beats run 30–45s, but code / decision-reasoning / the peak run 2–3 min. 25 slides is the right count (book: ~25–28 for 30 min) — **don't add slides, spend the time on the heavy ones.**
+
+| Bit | Slides | Target | Where the minutes are |
+| --- | --- | --- | --- |
+| **1 Opening** | title, S1–S4 | ~5 min | S1 (391/problem) · S4 (audience Q + pause) |
+| **2 Decisions** | S5–S10 | ~9–10 min | **S5/S6/S7 spoken reasoning** (constraint→tension→decision) · **S8 r2a code** |
+| **3 Mixed code** | S11–S14 | ~5 min | S12 code · S13 two models · S14 "for years" pause |
+| **4 Depth + AI** | S15–S23 | ~11–12 min | **S17 code** · **S20 the fall (74 files)** · S22 way-out · S23 the 50% + pause |
+| **5 Close** | S24, finale | ~3 min | S24 mine/not-mine |
+
+**≈ 33–35 min + Q&A** — hits the 32–35 target with zero new slides. The minutes live in **~8 heavy slides**: code (S8, S12, S17), decision reasoning (S5, S6, S7), the fall/peak (S20, S23) — each 2–3 min. The statement cards (S2, S10, S11, S21, finale) run 30–45s and **should stay fast.** The 15-min dry-run = the heavy slides got raced; the fix is rehearsal (speak the reasoning that's already in the notes), not new content.
+
+---
+
 ## LOCKED — direction, takeaway, strategy (2026-06-09)
 
 - **Subject vs. tension:** the **migration is the subject**; the **5 years (indifference) is the tension that earns attention** — not a competing thesis. Promoting "5 years" to _the problem_ tips into "why won't my org prioritize me" (grievance). Confirms the kept spine; just names the relationship. (Library agrees: open with the concrete puzzle, not the cost.)
@@ -86,5 +102,5 @@ The villain is **indifference, not resistance** — nobody opposed the migration
 - [x] Title + central **question** up front — title card in `bit1.md`: title + one orienting line (NOT the message; question stays at the ship S2)
 - [x] Within-slide anchors → S5 (accumulate) done; S7 already the pattern; S22/S24 excluded with reason. See callout above + `design-notes.md` Bit 2.
 - [x] Bit-seam transitions (Sagit's "seams as questions") — mapped all four: 1→2 and 3→4 already questions; 4→5 stays the thesis (not a question); **2→3 = a question on S11** ("how do you swap an engine while the ship's still sailing?"), asked as the image lands, not as a bridge over S10. (`bit3.md` S11, `design-notes.md` Bit 3, 2026-06-10)
-- [ ] Q&A prep — why migrate · how long · how many to convince · why so slow
+- [x] Q&A prep — anchors (not scripts) added to the finale notes (`bit5.md`): why migrate · how long/how far · how many to convince · why so slow (the grievance trap — answer flat) · would-you-React-today (yes, but → S24) · a-moment-that-stuck (first merge, S11).
 - [x] (carried from skeleton) self-intro phrasing · dashboard screenshot for S23

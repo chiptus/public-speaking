@@ -28,5 +28,12 @@
     >
     > תודה. שאלות?
   - _Cue:_ wordless card; say the line, then stop
+  - **Q&A — anchors to think about, not scripts** (answer live; this is just the map. Card stays up through Q&A):
+    - _why migrate?_ → hiring was the real trigger (no dev wants to start on a dead framework) · EOL Dec 2021 · refactor we'd do anyway (S5). Lead with hiring, not EOL.
+    - _how long / how far?_ → 5 years, ~50%. Say it flat — a multi-year campaign, not a sprint (the takeaway). Don't apologize for the pace.
+    - _how many did you have to convince?_ → the CEO (made the hiring case in his language) + the frontend team (decided together, S6). Not top-down.
+    - _why so slow?_ → indifference, not resistance — never the priority, "even one screen per release doesn't really happen." **Answer flat, not as grievance** (the no-victim line) — this is the trap question.
+    - _would you move to React today?_ → yes, **but** — and the "but" is S24. The "yes" is one sentence.
+    - _a moment that stuck / what made it worth it?_ → the first merge: another dev built on our React components → it felt real (S11).
 
 _(Design rationale for this bit, and the off-deck → Q&A material → `design-notes.md`.)_

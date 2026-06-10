@@ -2,43 +2,46 @@
 
 > Two things to practice differently:
 > **Verbatim (🔒)** — learn word-for-word. **Improv run** — speak from the trigger words only, never sentences.
-> The only fully-scripted stretch is the Bit 1 open. Everything after is improvised off cues.
+> The one fully-scripted stretch is the Bit 1 open (code-first: code → ship → intro → room). After that, four memorized drops — the Bit 2 seam, the fall quote, the takeaway, the finale — everything else is improvised off cues.
 
 ---
 
 ## 1. Verbatim lines (🔒 — word-for-word)
 
-These are the only lines you memorize. There are just four spots.
+### Bit 1 — the open (fully scripted, code-first order)
 
-### Bit 1 — the open (the one fully-scripted stretch)
+**הקוד (שקופית 1)** — screenshot of a giant AngularJS controller, callout: **391 components**
+> ככה נראה הקוד שלנו באנגולר — קונטרולרים ענקיים, כמעט לא מפורקים לקומפוננטות, הרבה כפילויות. 391 קומפוננטות להגר. התחלנו להעביר את זה לריאקט לפני חמש שנים. זה עדיין לא נגמר.
 
-**ספינה (שקופית 1)**
+*(391 = stakes, not a metric · תן ל"עדיין לא נגמר" לשבת)*
+
+**הספינה (שקופית 2)** — big red ship, wordless
 > יש שאלה ישנה — אם מחליפים את כל הקרשים של ספינה, אחד אחד, האם זו עדיין אותה ספינה? זאת בדיוק השאלה ששאלתי על האפליקציה שלנו: איך בונים אותה מחדש בפריימוורק חדש — בלי לשנות אותה?
 
-*(שאל — ואז עצור)*
+*(לעולם אל תגיד "ספינת תזאוס" · שאל — ואז עצור)*
 
-**הוו (שקופית 2)**
-> התחלנו לפני חמש שנים להעביר את האפליקציה לריאקט. זה לא סיפור עם סוף.
+**הצגה עצמית (שקופית 3)** — name / role card
+> שמי חיים, אני מפתח בפורטיינר מאז 2018 — פלטפורמה לניהול קונטיינרים.
 
-*(עצור)*
+*(ואז שטוח ובאיטיות — לא 🔒, מילים שלך): 3–4 מפתחים אז · ~10–15 היום · "הובלתי את זה בעיקר לבד" · "אף פעם לא היה בעדיפות")*
 
-**הצגה עצמית (שקופית 3)** — *זריז, בלי להתעכב*
-> שמי חיים, אני מפתח ב-Portainer מאז 2018 — פלטפורמה לניהול קונטיינרים.
+**לקהל (שקופית 4)** — the S1 codebase screenshot, brought back as a callback
+> *(שאלה לקהל — מילים שלך): מישהו כאן היה/נמצא במצב כזה? קוד legacy ישן שרציתם להגר ממנו?*
+> *(עצור ~3 שניות)*
+> אז רציתי לספר לכם שזה אפשרי.
 
-**הקוד לפני (שקופית 4)**
-> אני מוביל את זה מההתחלה. ככה נראה הקוד שלנו באנגולר — קונטרולרים ענקיים, כמעט בלי קומפוננטות, הרבה כפילויות.
-
-*(עצור — תן לבלגן להירשם, ואז פנה לקהל)*
-
-> אולי יש לכם קוד כזה, ואתם חושבים שאין מאיפה לזוז. אני חושב שזה לא נכון.
-
-*(עצור — אל תמהר לביט 2)*
+*(לקהל, ואז עצור)*
+*(→ גשר לביט 2 — מילים שלך): איך מזיזים משהו כל כך גדול? החלטה אחת — ולא הבלגן. קוד מבולגן מתקנים במקום; אנחנו עברנו כי הקרקע מתחת נעלמה.*
 
 ### Bit 2 — the seam into "why it had to change" (שקופית 5)
 > וזה לא נגמר בבלגן.
 
-### Bit 4 — the fall, the quote (שקופית 20)
+### Bit 4 — the fall, the quote spoken over the PR (שקופית 20)
 > נותן להרגיש שהכל אפשרי, רק צריך לשלוח עוד הודעה.
+
+### Bit 4 — the takeaway, to the room (שקופית 23, eyes up off the ~50% dashboard)
+> אתם לא תקועים עם קוד ישן.
+> אפשר להגר אותו תוך כדי שאתם ממשיכים לשלוח — בתנאי שאתם כנים עם עצמכם שזה מסע של שנים, לא ספרינט.
 
 ### Bit 5 — the last words (finale ship card)
 > שאלנו אם זו עדיין אותה ספינה. היום היא חצי ישנה, חצי חדשה — עדיין שטה, עדיין נבנית.
@@ -49,39 +52,42 @@ These are the only lines you memorize. There are just four spots.
 
 ## 2. Improv run — cues only
 
-Everything below is **improvised** (except 🔒, where a memorized line drops in). Each line: **slide — what's on screen** → beats — *cue*. Read the trigger words, make the sentence yourself. If you can run the whole talk from this list without reaching for full lines, you're ready.
+Everything below is **improvised** (except 🔒, where a memorized line drops in). Each line: **slide — what's on screen** → beats — *cue*. Read the triggers, make the sentence yourself. If you can run the whole talk from this list without reaching for full sentences, you're ready.
 
-### Bit 1 — Opening *(all 🔒 — see section 1 for the words; here just so the run is complete)*
-- **S1 — wordless grey ship:** the plank paradox · same ship? — 🔒 *ask, then stop*
-- **S2 — two lines of text:** 5 years ago · no ending — 🔒
-- **S3 — name / role card:** Chaim · Portainer since 2018 · container management — 🔒 *brisk*
-- **S4 — screenshot of a giant AngularJS controller:** giant controllers · no components · dupes → 🔒 turn to room: maybe you have this, I think you're not stuck — *to the room, then stop*
+### Title card
+- **"AngularJS → React: Moving a Mountain Incrementally":** ~10s — moving a large product off a dead framework · incrementally · five years · still shipping — *not an agenda → go to the code*
+
+### Bit 1 — Opening *(S1–S4 are 🔒 — see section 1; here so the run is complete)*
+- **S1 — giant AngularJS controller, "391 components":** the code · 391 to migrate · 5 years · not over yet — 🔒 *391 = stakes · let "not over" sit*
+- **S2 — big red ship, wordless:** the plank paradox · same ship? — 🔒 *ask, then stop · never say "Ship of Theseus"*
+- **S3 — name / role card:** Chaim · Portainer since 2018 — 🔒 → flat: 3–4 then · ~10–15 now · led it largely alone · never the priority — *slow, flat · "never the priority" pays off at S24*
+- **S4 — the S1 codebase, back as a callback:** audience Q: anyone here on legacy code? · pause → 🔒 *so I wanted to tell you it's possible* — *to the room, then stop* → bridge: how do you move something this big? one decision, not the mess →
 
 ### Bit 2 — The Decisions
-- **S5 — three lines (dead lib · refactor · features):** 🔒seam → dead library · refactor needed anyway · features coming · EOL = trigger not the case (Dec 2021) · migration gave refactor its legitimacy — *escalation, not a restart*
-- **S6 — decision-flow diagram (discussions → team → React):** leadership: "can't hire" · team: ecosystem · familiarity · ownership — *decided together, not top-down*
-- **S7 — four options, struck live:** requirements: keep shipping / don't freeze / don't fragment · do-nothing✗ rewrite✗ micro-frontends✗ incremental✓ — *strike each → name what it fails*
-- **S8 — Angular ←r2a→ React diagram:** r2a = simplest fit · React in Angular kills dual-maintenance — *don't open the pain yet*
-- **S9 — "TypeScript + Tailwind" big:** migration = cover for what couldn't justify itself · TS + Tailwind in first PRs · I argued against TS, glad we did — *aside, don't sell*
-- **S10 — "Same surface. New engine underneath.":** a decision, not a regret · same UX, rebuilt beneath · not a translation — *same ship, swap the engine →*
+- **S5 — "Why it had to change," three lines (anchor: current line lit, rest dim):** 🔒seam → hard to hire (**the real trigger** — no dev starts on a dead framework) · refactor needed anyway · EOL deadline Dec 2021 (known since 2018 — we prepared, didn't react) — *escalation off Bit 1, not a restart*
+- **S6 — "How it was decided," flow:** leadership: "can't hire" for AngularJS · the CEO talk — made the hiring case in *his* language · team: ecosystem · familiarity · ownership — *decided together, not top-down*
+- **S7 — "The options," struck live:** reqs: keep shipping / don't freeze dev / don't fragment state-nav · rewrite✗ · micro-frontends✗ · incremental✓ — *strike each → name what it fails*
+- **S8 — two code blocks (register r2a → use it):** r2a = simplest fit · "I just need the component and its props" · React inside Angular kills most dual-maintenance — *two blocks, no API tour · don't open the pain yet*
+- **S9 — "While we were in there" (TypeScript + Tailwind):** migration = cover for what couldn't justify itself alone · TS + Tailwind in the first PRs · I argued against TS — far easier now — *aside, don't sell*
+- **S10 — "Same surface. New engine underneath.":** a decision, not a regret · users don't know it's React, don't need to · behavior-preserving, still a full refactor — not a translation — *same ship, swap the engine →*
 
 ### Bit 3 — Living with Mixed Code
-- **S11 — ship swapping its engine at sea:** can't stop the running system · PO at the rail wants a new deck — *image only*
-- **S12 — code snippet, rdWidget vs Widget:** no children prop → ng-transclude keeps Angular alive — *let the code carry it*
-- **S13 — data-flow diagram (2-way vs 1-way):** 2-way + 1-way in your head = the cost · wrapper is the symptom — *name the cost, don't teach the API*
-- **S14 — "This is how it runs. For years." (big text):** not a transition phase · this is how it runs · for years — *as fact, not complaint — let it sit* → if it's the state for years, the question is **how** →
+- **S11 — ship swapping its engine at sea:** first merge — another dev built on our stuff → it felt real · turn: "…that's what you signed up for" → the pain · *(ask as the image lands): how do you swap an engine while the ship's still sailing?* → can't stop the running system — *warm → turn → question · don't say it over S10*
+- **S12 — "Two versions of the same component," code:** no children prop → ng-transclude keeps Angular alive · the snippet = the structural divergence — *let the code carry it*
+- **S13 — "Two models in your head," data-flow:** 2-way + 1-way coexist = the cognitive cost · the wrapper is the symptom — *name the cost, don't teach the API*
+- **S14 — "This is not a transition phase / This is how it runs / For years":** one line at a time · pause after each · the silence after "for years" is the point — *as fact, not complaint* → if it's the state for years, the question isn't *whether* but *how* — again and again →
 
 ### Bit 4 — Depth and AI
-- **S15 — screenshots of copy-pasted old patterns:** find duplicated patterns → a component for each — *general method, NOT one table*
-- **S16 — one rich table, callouts on each capability:** patterns → TanStack (headless, we own markup) → design API — *say "TanStack" aloud → pressure into S17*
-- **S17 — two code blocks (composable vs Datatable):** primitives only = copy-paste = S15 pain in React · ship Datatable · keep primitives · ExpandableTable — *callback to S15 — refactor ≠ translate*
-- **S18 — real Portainer page, components labelled:** for years: decompose → refactor gaps → small PRs · Copilot later, line-level only — *enact "migration ≠ translation," don't assert*
-- **S19 — dashboard, small (AJS count, priorities):** came back, wanted to resume · built a dashboard, vibe-coded, just a tool · started figuring out AI — *let it sit, don't call it "organized"*
-- **S20 — the Hebrew quote, full slide:** warm: rusty, "convert the stack page for me" → 🔒quote — *the quote IS the fall; full stop after*
-- **S21 — "Looked done. Bugs. Paused.":** looked done · bugs · paused · the *fear* paused it (not the bug) · often it genuinely was the migration — *state, don't dramatize — no victim*
-- **S22 — fundamentals line + principles beneath:** AI emphasizes the fundamentals, doesn't replace them · plan → tasks → small units · you plan a layer up, it does the unit — *not magic / not burned — land "bottom-up"*
-- **S23 — dashboard, full-screen on ~50%:** still migrating · progressing · learning · ~50% ahead — *proof of "no ending," let it sit* → half the road's still ahead, less about the path behind →
+- **S15 — "Research," copy-pasted old patterns:** find duplicated patterns → a component for each — *general method, NOT one table*
+- **S16 — one rich table, callouts on each capability:** patterns → TanStack (headless, we own the markup) → design the API — *say "TanStack" aloud → pressure into S17*
+- **S17 — two code blocks (composable vs `<Datatable>`):** primitives only = copy-paste = S15 pain in React · ship Datatable · keep primitives · ExpandableTable — *callback to S15 — refactor ≠ translate*
+- **S18 — "Migrating a view," real page, components labelled:** for years: decompose → refactor gaps → small PRs · Copilot later — line-level only, decisions stayed human — *enact "migration ≠ translation," don't assert*
+- **S19 — "The return," small dashboard (component count):** came back, wanted to resume · vibe-coded a little dashboard — just a tool · leaned back into AI, asked for more ← the turn — *end on the AI turn → S20*
+- **S20 — the merged PR: "74 files changed, +2,935 −714":** warm: rusty — said it casual, "convert the stacks page to react" · point at the PR — 74 files, nobody reviews that properly · 🔒quote: anything's possible, just send one more message — *one sentence → 74 files is self-evident · don't moralize*
+- **S21 — "Looked done. Bugs. Paused.":** looked done · bugs · paused (~2 months, now resumed) · the *fear* paused it — every bug blamed on the migration · but often it genuinely *was* the migration — *state, don't dramatize — no victim*
+- **S22 — fundamentals line + principles beneath:** AI emphasized the fundamentals — didn't replace them · stuck, a bit scared, paused → back to basics · plan → tasks → small units · e2e = the safety net (catches "looked done") · YAGNI · bottom-up · today I can plan anything with it — *recovery, not a lecture*
+- **S23 — dashboard full-screen on ~50% (no corner ship):** still migrating · progressing · learning · ~50% of the Bit 1 count — half the mountain · let it sit → 🔒takeaway, to the room → half the road's still ahead; less about the path behind →
 
 ### Bit 5 — What's Next
-- **S24 — one slide, two labelled halves:** starting now (mine): small targets · explicit product trade-off · document & revisit decisions || what I'd want (not mine): one team — dev, QA, reviewer, no other priorities — *let the structure carry it*
-- **Finale — half-green ship, wordless:** 🔒last words → *say it, then stop*
+- **S24 — one slide, two stacked rows:** *do differently (mine):* bottom-up small targets · guardrails-first e2e (pin behavior **before** migrating) · document & revisit decisions · show the team the progress  ‖  *what I'd need (NOT MINE TO GRANT):* a real priority — dedicated team (2 devs, 1 QA) · product in the loop — rank what matters, call what's dead — *let the structure carry it · don't say "in/out of my control"*
+- **Finale — well-progressed ship (more blue than red, not finished), wordless:** 🔒last words → *say it, then stop* · Q&A anchors live in `slides/bit5.md`

@@ -31,6 +31,15 @@
 - **S8 = code snippet, diagram dropped.** Per take-1 review: the box-arrow r2a diagram was replaced with two tiny code blocks (**register** a React component as an Angular one, then **use** it in a template). The snippet _is_ the diagram — more concrete, and it makes the take's clearest line ("I just need the component and its props") show rather than assert. Kept to two blocks (no API tour) so it doesn't front-load Bit 4's code budget (S12/S17). **Sets up S12**: S8 shows r2a clean, S12 shows where it breaks (`children`/`ng-transclude`) — a real cross-bit setup→payoff. Snippet reconciled against the real r2a signature (confirmed 2026-06-06).
 - **S7 "do nothing" dropped — level separation.** S7 is a _how to migrate_ list (rewrite · micro-frontends · incremental — three real strategies); "do nothing" is a _whether_ question, already settled by S5's three reasons. Striking it on S7 ("→ lib dead") just restated S5. It's also where take-1 went circular (not a distinct beat, a restatement). Clean split now: **S5 = whether (must change), S7 = how (three strategies).** Build drops 4→3 (two rejected, incremental stands).
 
+### Within-slide anchor — Sagit's "cognitive anchor" (2026-06-10)
+
+One mechanic, generalized from S7's strike: exactly one unit is **active** (lit / full weight), the rest de-emphasized; the marker advances **synced to delivery, never auto**. Job: orient the room (_where am I inside this slide_) **and** brake pacing (can't advance until the current unit lands). Two flavors:
+
+- **Eliminate (S7):** all points shown; strike each as it's rejected; the survivor stands. For knocking options down.
+- **Accumulate (S5):** points build in one at a time; current lit, prior ones dim but kept, next absent. For building a case.
+
+**Grain is the real choice, not whether to anchor.** S5/S7 anchor at the **item** level (one line at a time). S22 and S24 already anchor at the **group** level — S22: framing line → the four principles (2 beats); S24: "mine" row → "need" row (2 beats). That coarser grain is correct for them: going finer (lighting each principle / each mine-item individually) would fight S22's _cluster_ read ("back to basics" lands as one thing) and S24's _band_ asymmetry (mine vs. not-mine is the point, not the individual items). So: new work was S5 only; S7/S22/S24 were already anchored at the grain that fits them. Sparing by design — match the grain to what the slide is doing.
+
 ---
 
 ## Bit 3 — Living with Mixed Code

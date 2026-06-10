@@ -78,13 +78,13 @@ The villain is **indifference, not resistance** — nobody opposed the migration
 
 ## Open / next
 
-> **⚠️ IMPORTANT — within-slide anchors:** add a within-slide visual marker (highlight current point / dim the rest) on a **couple** of multi-point slides — Sagit's "cognitive anchor." Shows the room where we are _inside_ a slide AND doubles as a pacing brake. Candidates: S5, S7, S22, S24. Not every slide — just where it dwells. (Generalize the S7 strike pattern.)
+> **✅ DONE (2026-06-10) — within-slide anchors:** mechanic generalized from S7's strike into a named convention (`design-notes.md` Bit 2). The real choice is **grain**, not whether to anchor. Applied the **accumulate** flavor to **S5** at the _item_ grain (current line lit, prior dim-but-kept, next absent; advances on delivery = pacing brake). **S7** (item grain), **S22** and **S24** were already anchored at the _group_ grain (S22: headline → principles; S24: mine row → need row) — correct for them; going finer would fight S22's cluster read and S24's band asymmetry.
 
 - [x] **Decisions bit (S5–S10): reframed — it's a PRACTICE problem, not an edit.** Reasoning already in the notes; the "never speak" suppressor was already removed from the header. Rehearse it out loud (constraint → tension → decision). Only open item: the speaker supplies the _real_ "why I was against TypeScript" sentence (S9).
 - [x] Fuse the open (S1–S4): code-first — title → code → ship → intro → to-the-room; bit2 bridge added; cross-refs (391→S1, open ship→S2) fixed. (`bit1.md`, 2026-06-09)
 - [x] Land the takeaway as a spoken line at the S23→S24 bridge (no new slide) — done in `bit4.md`
 - [x] Title + central **question** up front — title card in `bit1.md`: title + one orienting line (NOT the message; question stays at the ship S2)
-- [ ] Within-slide anchors → see ⚠️ IMPORTANT callout above
+- [x] Within-slide anchors → S5 (accumulate) done; S7 already the pattern; S22/S24 excluded with reason. See callout above + `design-notes.md` Bit 2.
 - [ ] Write 1→2 and 2→3 transitions
 - [ ] Q&A prep — why migrate · how long · how many to convince · why so slow
 - [x] (carried from skeleton) self-intro phrasing · dashboard screenshot for S23

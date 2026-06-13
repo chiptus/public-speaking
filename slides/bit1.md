@@ -5,7 +5,7 @@
 
 ## title
 
-- **Visual:** Title on slide: **"AngularJS → React: Moving a Mountain Incrementally"**
+- **Visual:** Title on slide: **"AngularJS to React: How to Move a Mountain Incrementally"**
 - **Notes:**
   - **Speak:** _"how we've been moving a large product off a dead framework — incrementally, five years, still shipping."_
   - _Cue:_ ~10s, then go to the code. Not an agenda.
@@ -39,6 +39,8 @@
   - Someone who was/is in this situation? Who had an old legacy code and wanted to migrate from it?
   - 🔒 אז רציתי לספר לכם שזה אפשרי.
   - _Cue:_ to the room, then stop.
-  - **→ Bridge → Bit 2 (say live):** _"how do you move something this big? one decision — and not the mess. messy code you refactor in place. we moved because the ground under it was going away."_ → S5.
+  - **→ Bridge → Bit 2 (say live):** _"לא עברנו בגלל הבלגן בקוד — לקוד מבולגן עושים ריפקטור. עברנו כי AngularJS עצמו הגיע לסוף הדרך."_ → S5.
+    - _(EN, meaning-check: we didn't move because of the messy code — messy code you refactor. we moved because AngularJS itself had reached the end of the road.)_
+    - _Cue:_ hand straight to S5's "why" — don't preview "one decision" (that's Bit 2's thesis → lives at S6/S8).
 
 _(Rationale, build behavior, design history → `design-notes.md`.)_

@@ -31,6 +31,7 @@
 - **Notes:**
   - 2-way + 1-way coexist = the cognitive cost
   - the wrapper is the symptom
+  - digest cycle
   - _Cue:_ name the cost, don't teach the API
 
 ## Slide 14 — 50/50
@@ -40,7 +41,7 @@
 - **Notes:**
   - the key reframe — line is on the slide
   - _Cue:_ say as fact, not complaint — let it sit
-- **→ Bridge to Bit 4 (improvised):** _silence first — let S14 land._ Then: if it's the state for years, the question isn't *whether* to migrate but *how* — well, again and again → S15.
+- **→ Bridge to Bit 4 (improvised):** _silence first — let S14 land._ Then: if it's the state for years, the question isn't _whether_ to migrate but _how_ — well, again and again → S15.
   - _Cue:_ question only — don't pre-state "find the patterns"
 
 _(Design rationale + session decisions for this bit → `design-notes.md`.)_

@@ -48,7 +48,7 @@
 
 - **Visual:**
   - Title (on slide): **The return**
-  - The dashboard screenshot, shown **small** — AJS **component** count over time (same unit as S1's 391), which to migrate first. A tool, itself vibe-coded. (S23 crops to just the X/Y-components-done metric.)
+  - The dashboard screenshot, shown - AJS **component** count over time (same unit as S1's 391), which to migrate first. A tool, itself vibe-coded. (S23 crops to just the X/Y-components-done metric.)
 - **Notes:**
   - came back, wanted to resume
   - vibe-coded a little dashboard to see where things stood — just a tool
@@ -57,12 +57,12 @@
 
 ### Slide 20 — The fall
 
-- **Visual:** the real merged PR (screenshot) — title _"refactor(stacks): migrate create view to react"_ + **74 files changed, +2,935 −714**. The PR title doubles as the ask; **"74 files"** is the unreviewable gut-punch. The disproportion is the point: one casual sentence → 74 files. (Crop so title + "74 files" + the diff stat stay legible.)
+- **Visual:** two parts, both on slide — a **chat-prompt bubble** (the ask: _"convert the stacks page to react"_) feeding into the **real merged PR** (screenshot) — title _"refactor(stacks): migrate create view to react"_ + **74 files changed, +2,935 −714**. The disproportion is the point: one casual sentence → 74 files; **"74 files"** is the unreviewable gut-punch. (Crop the PR so title + "74 files" + the diff stat stay legible.)
   - _(source, not on slide:_ https://github.com/portainer/portainer/commit/a1bac5a133f28bfd1cf23f3a840cc56eceee9bf8 _)_
 - **Notes:**
-  - warm setup: rusty — said it casual: "convert the stacks page to react"
+  - warm setup: rusty — said it casual (the bubble shows it): "convert the stacks page to react"
   - point at the PR: this came back — 74 files (nobody reviews 74 files properly)
-  - quote (spoken, not on slide): "anything's possible — just send one more message"
+  - reflective line (spoken, not on slide): "anything's possible — just send one more message"
   - why it felt fine — stay in the experience, don't name the moral
   - _Cue:_ the gap (one sentence → 74 files) is self-evident — don't moralize; bottom-up payoff is S22
 

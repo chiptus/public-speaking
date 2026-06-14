@@ -21,7 +21,7 @@
 
 - **S5 seam:** opens on Bit 1's mess connective so it reads as escalation, not a fresh start (the seam from Slide 4; Bit 1 has no closing bridge).
 - **S9 reframe:** the slide is the payoff of S5's legitimacy beat, not a "foundations first" principle. The TS-resistance line echoes S6 (decided together) — keep it an aside; don't announce a moral. _(alt titles: "While we were in there" · "מה שהמעבר אפשר")_
-- **S10:** behavior-preserving-but-fully-refactored is what Bit 4 cashes ("migration ≠ translation"). The bridge springs straight into Bit 3 (engine at sea), no reach-back.
+- **S10:** behavior-preserving-but-fully-refactored is what Bit 4 cashes ("migration ≠ translation"). **S10 now also closes Bit 2 warm** — the first-merge payoff lands here, and the "engine" line was stripped (the engine debuts on S11). See the 2026-06-14 seam decision in the Bit 3 section.
 - **Bit 2 through-line:** S6 · S9 · S10 are a quiet trilogy of collective decisions the speaker didn't fully own (decided-together · overruled-and-glad · a-decision-not-a-regret).
 
 ### Decisions (2026-06-06 — S5 reasons + EOL timeline + S8 snippet)
@@ -47,13 +47,28 @@ One mechanic, generalized from S7's strike: exactly one unit is **active** (lit 
 - The ship is the talk's single unified metaphor (Bit 1, Ship of Theseus), now shown in its working state — no competing plane.
 - S13 was flagged "unclear" in run 1 (`takes/take1/notes1.md`) — keep it concrete: one symptom (the wrapper), one cost (two mental models), no API tour.
 - Bridge springs straight off S14, no reach-back into Bit 3.
-- **2→3 seam = a question on S11, not a bridge line on S10 (2026-06-10).** Sagit's "seams as questions" → only 2→3 needed it (1→2 and 3→4 were already questions; 4→5 stays the thesis, not a question). The question — _"how do you swap an engine while the ship's still sailing?"_ — is asked **as S11's engine-at-sea image reveals**, not as a spoken bridge over S10. A seam line that describes the image would narrate/deflate the visual (and S10 "new engine underneath" + S11 already share the metaphor). S10→S11 run quick (<1 min) on purpose — pivot beats, not teaching beats; Bit 3's weight is S14's "for years" pause.
+- **2→3 seam = a question on S11, not a bridge line on S10 (2026-06-10).** Sagit's "seams as questions" → only 2→3 needed it (1→2 and 3→4 were already questions; 4→5 stays the thesis, not a question). The question — _"how do you swap an engine while the ship's still sailing?"_ — is asked **as S11's engine-at-sea image reveals**, not as a spoken bridge over S10. A seam line that describes the image would narrate/deflate the visual. S10→S11 run quick (<1 min) on purpose — pivot beats, not teaching beats; Bit 3's weight is S14's "for years" pause. _(Update 2026-06-14: the old "S10 + S11 share the engine metaphor" worry is gone — S10's engine line was stripped, so S11 now owns the metaphor outright. Question-on-S11 still holds. See the 2026-06-14 seam decision below.)_
 
 ### Decisions made (Bit 3 session)
 
 - [אנושי] moments (silence asymmetry, stolen time) removed from Bit 3 — placement TBD in Bit 5 planning
 - Slide 12: code snippet approved (ng-transclude vs children prop)
 - Analogy: swapping the engine at sea — the ship is the talk's single metaphor (Bit 1 Ship of Theseus); the competing plane was removed
+
+### Decision (2026-06-14 — the 2→3 seam reshaped: warm beat closes Bit 2, engine debuts on S11)
+
+Takes 8/9/10 exposed the S10→S11 seam floundering: across three runs the first-merge warm beat landed in three different spots (top / absent / middle), the question got asked 1–2×, and "users don't need to know" (S10) leaked into Bit 3. Root cause = two **structural** faults, not rehearsal:
+
+- **Engine spent twice.** S10 ("new engine underneath") debuted the sub-metaphor as a calm decision, then S11 re-enacted it — back-to-back, so the seam marked time.
+- **S11 held no pain, only promised it.** S11's spoken content was warm (first merge) + a rhetorical question; the actual pain is S12/S13/S14. The question hung unanswered for a whole slide and the warm beat (up) fought the turn (down), so the speaker circled — which is why the warm beat never found a stable home.
+
+Fix (speaker's call — both directions chosen):
+
+- **Warm beat closes Bit 2 (moved S11 → S10).** First-merge is the payoff of the Bit 2 decisions (another dev built on our React), so it ends Bit 2 up/warm. The tonal turn is now the **bit boundary itself** — Bit 2 closes warm, Bit 3 opens cold on the hard scene. Gives the floating beat a stable home and removes the warm/hard oscillation from S11.
+- **Engine stripped from S10** → "Same surface. Rebuilt underneath." The engine-at-sea debuts fresh on S11 (first/only appearance), so the metaphor isn't pre-spent.
+- **S11 = one clean move:** engine-at-sea image + the question (asked **once**) → straight into S12, no pause, no re-asking. S12 answers the question instead of the speaker circling.
+
+Supersedes: the Bit 4 note "first merge placed at S10→S11 seam, opening spoken beat of S11," and the engine-at-sea half of the S10 bridge note above.
 
 ---
 
@@ -81,7 +96,7 @@ One mechanic, generalized from S7's strike: exactly one unit is **active** (lit 
 - **Correction (2026-06-10 sync):** the chat-prompt bubble was **kept on-slide** (speaker's call), reversing the "quote moves off-slide → spoken" decision below. S20 visual is now **prompt bubble (the ask) + PR screenshot**, both on slide. Only the reflective "anything's possible — just send one more message" stays spoken.
 - **S20 reshaped: the fall is now "the ask," not "the quote."** Visual = the **real merged PR screenshot** (title _"refactor(stacks): migrate create view to react"_ → **74 files changed, +2,935/−714**). The PR title doubles as the ask, so no separate prompt-UI mockup is needed; **"74 files"** is the unreviewable signal (emphasize files over line count). The disproportion (one casual sentence → 74 files) carries "top-down migration = huge PRs you can't review" **visually**, so the speaker doesn't announce the moral. (Portainer's repo is public — PR #1538 — so no confidentiality issue.) The **quote moves off-slide → spoken** ("anything's possible, just send one more message"). Trade-off accepted: lose the stark quote-as-slide, gain a concrete, visceral fall that lands with senior devs. The explicit *bottom-up* payoff stays at S22 (setup → payoff).
 - **S19 floating-quote problem fixed by reorder, not removal.** S19 keeps the small dashboard visual (it's itself a vibe-coded AI artifact, so it doubles as evidence of the AI re-entry), but its notes now **end on the AI turn** so S20's ask is the immediate consequence. Dashboard shown twice is fine because the two appearances are **different facets**: S19 = the _tool_; S23 = cropped to just the **X/Y-components-done** metric (the number). Not the same view repeated.
-- **The "first merge" human beat placed: S10→S11 seam, opening spoken beat of S11** (`bit3.md`). Framed as the payoff of the Bit 2 decisions (another dev built on our React components → momentum), then pivots into the mixed-code pain — warm → hard in one move. Supersedes the earlier "dropped, reuse in Bit 5" note above.
+- **The "first merge" human beat placed: S10→S11 seam, opening spoken beat of S11** (`bit3.md`). Framed as the payoff of the Bit 2 decisions (another dev built on our React components → momentum), then pivots into the mixed-code pain — warm → hard in one move. Supersedes the earlier "dropped, reuse in Bit 5" note above. **Superseded 2026-06-14** — the warm → hard "one move" on a wordless S11 is exactly what floundered in takes 8/9/10; first-merge moved to **close Bit 2 on S10**, and S11 opens cold. See the 2026-06-14 seam decision in the Bit 3 section.
 - **On-slide text fully English** — S20's Hebrew quote is gone (now spoken); no deliberate-Hebrew slide remains. **S9 title = "While we were in there."** **S24 stays one slide, two halves.**
 - **Numbers added, surgically — and the "no number in Bit 1" rule above is refined.** Two _different_ numbers now bracket the talk: **S4 = the starting magnitude** (**391** AngularJS components — mostly big, undecomposed views; the "mountain," stakes), and **S23 = the progress** (~50% of that same count). **LOC was rejected** — 391 components ÷ LOC implies a misleading ~average that undercuts the "giant controllers" screenshot (the distribution is skewed: a few monsters, a long tail of small ones). **Unit = components** (not views/LOC) across S4/S19/S23. The S4 🔒 line was tweaked from "almost no components" → "barely decomposed into components" so it doesn't surface-clash with "391 components" (the 391 exist; they're just not broken down). The old line 59 rule was aimed at a _progress/percentage_ stat at the open — that still doesn't go in Bit 1. A concrete _magnitude_ on S4, tied to the giant-controller screenshot, is stakes not decoration, so it earns its place. **Constraint:** S4 and S23 must use the **same unit/denominator** or "~50%" isn't traceable. Real N is speaker-provided (`todo.md`). AngularJS/React release dates were considered and **rejected** as trivia/history-lecture risk; EOL (Dec 2021) stays as the trigger on S5 only.
 - **Human story thickened (surgical — take-2 read thin vs the skeleton).** Two beats expanded in _delivery_, no new slides: **S22 reframed "The method" → "The way out"** (internal header only) — now carries the lived recovery (stalled/scared → back to the fundamentals → moving again → "today I can plan anything with it"), with **e2e tests added** to the principles as the safety net that catches "looked done" bugs and verifies behavior-preserved (ties to S10 "same surface" + S23). **S24's stolen-time beat sharpened** — "2–3 people, spare time, for years" gets its own beat + a flat/slow delivery cue so it lands as the quiet truth, not a bullet. CEO-conversation beat left **improvised** (already in the talk, deliberately not on slides); S21 fear-attribution left as-is — a **rehearsal** item (text is fine, just needs practice), not a content gap.
@@ -153,6 +168,6 @@ One mechanic, generalized from S7's strike: exactly one unit is **active** (lit 
 **Not titles — these are wordless or text-as-content** (so the question doesn't apply):
 
 - Wordless / image-only: **S1, S11, finale ship card**.
-- The line *is* the slide (statement text, not a heading): **S2** (hook), **S3** (self-intro), **S10** ("Same surface. New engine underneath."), **S14** (50/50 lines), **S21** ("Looked done. Bugs. Paused."), **S22** (method framing line). _(S20 is no longer here — it's now a visual slide: prompt → diff.)_
+- The line *is* the slide (statement text, not a heading): **S2** (hook), **S3** (self-intro), **S10** ("Same surface. Rebuilt underneath."), **S14** (50/50 lines), **S21** ("Looked done. Bugs. Paused."), **S22** (method framing line). _(S20 is no longer here — it's now a visual slide: prompt → diff.)_
 
 _**S9 title — decided: "While we were in there"** (2026-06-06). Understated, opportunistic; lets "TypeScript + Tailwind" carry the point without announcing the moral._

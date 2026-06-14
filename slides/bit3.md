@@ -7,11 +7,9 @@
 
 - **Visual:** A ship at sea with its engine being swapped mid-voyage — the PO leaning over the rail asking for a new deck. No text, or minimal.
 - **Notes:**
-  - first merge: another dev built on our stuff → it felt real
-  - turn: "…and that's what you signed up for" → the pain
-  - **Speak (the 2→3 seam — ask it as the image lands, not before):** _"how do you swap an engine while the ship's still sailing?"_ → can't stop the running system
-  - PO at the rail wants a new deck _(pun, optional)_
-  - _Cue:_ warm → turn → the question; image only, no text. Don't say the question over S10 — it would narrate this image.
+  - analogy: engine swap mid-sail · PO wants a new deck
+  - **ask:** _"so — what's it like to live like this?"_
+  - _Cue:_ once · no pause → S12
 
 ## Slide 12 — Two versions of the same component
 

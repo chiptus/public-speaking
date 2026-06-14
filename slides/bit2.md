@@ -73,15 +73,13 @@
   - grace note: I argued against TypeScript; we did it anyway; far easier now
   - _Cue:_ "I was against it" — aside, don't sell
 
-## Slide 10 — Same surface, new engine
+## Slide 10 — Same surface, rebuilt underneath
 
-- **Visual:** Title alone: "Same surface. New engine underneath."
+- **Visual:** Title alone: "Same surface. Rebuilt underneath."
 - **Notes:**
+  - users don't know it's React, don't know it's Angular — **they don't need to know. Same app to them.**
+  - **warm close (the payoff of the Bit 2 decisions — first merge):** another dev built on our React components → it felt real, the decisions paid off. _(Bit 2 ends up/warm.)_
   - a decision, not a regret
-  - same UX, rebuilt underneath
-  - _take-3 line (keep it — sharper than "same UX"):_ users don't know it's React, don't know it's Angular — **they don't need to know. Same app to them.**
-  - why: no mandate to change UX · new surface muddies attribution (regression vs redesign)
   - behavior-preserving, still a full refactor — not a translation
-  - _Cue / bridge → Bit 3:_ same ship, swap the engine
 
 _(Design rationale for this bit → `design-notes.md`.)_

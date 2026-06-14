@@ -69,10 +69,10 @@ Everything below is **improvised** (except 🔒, where a memorized line drops in
 - **S7 — "The options," struck live:** reqs: keep shipping / don't freeze dev / don't fragment state-nav · rewrite✗ · micro-frontends✗ · incremental✓ — *strike each → name what it fails*
 - **S8 — two code blocks (register r2a → use it):** r2a = simplest fit · "I just need the component and its props" · React inside Angular kills most dual-maintenance — *two blocks, no API tour · don't open the pain yet*
 - **S9 — "While we were in there" (TypeScript + Tailwind):** migration = cover for what couldn't justify itself alone · TS + Tailwind in the first PRs · I argued against TS — far easier now — *aside, don't sell*
-- **S10 — "Same surface. New engine underneath.":** a decision, not a regret · users don't know it's React, don't need to · behavior-preserving, still a full refactor — not a translation — *same ship, swap the engine →*
+- **S10 — "Same surface. Rebuilt underneath.":** a decision, not a regret · users don't know it's React, don't need to · behavior-preserving, still a full refactor — not a translation · **warm close: first merge — another dev built on our React → it felt real, the decisions paid off** — *end warm, let it sit · no "engine" here — it debuts on S11 →*
 
 ### Bit 3 — Living with Mixed Code
-- **S11 — ship swapping its engine at sea:** first merge — another dev built on our stuff → it felt real · turn: "…that's what you signed up for" → the pain · *(ask as the image lands): how do you swap an engine while the ship's still sailing?* → can't stop the running system — *warm → turn → question · don't say it over S10*
+- **S11 — ship swapping its engine at sea (engine debuts here):** analogy: engine swap mid-sail · PO wants a new deck · *(ask as the image lands): "so — what's it like to live like this?"* → **once, no pause → S12** — *image only · let S12 answer it · the "how / again and again" question is S14's, not here*
 - **S12 — "Two versions of the same component," code:** no children prop → ng-transclude keeps Angular alive · the snippet = the structural divergence — *let the code carry it*
 - **S13 — "Two models in your head," data-flow:** 2-way + 1-way coexist = the cognitive cost · the wrapper is the symptom — *name the cost, don't teach the API*
 - **S14 — "This is not a transition phase / This is how it runs / For years":** one line at a time · pause after each · the silence after "for years" is the point — *as fact, not complaint* → if it's the state for years, the question isn't *whether* but *how* — again and again →

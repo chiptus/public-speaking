@@ -7,8 +7,9 @@
 
 - **Visual:** Title on slide: **"AngularJS to React: How to Move a Mountain Incrementally"**
 - **Notes:**
-  - **Speak:** _"how we've been moving a large product off a dead framework — incrementally, five years, still shipping."_
-  - _Cue:_ ~10s, then go to the code. Not an agenda.
+  - 🔒 _"היום אני אראה לכם איך מעבירים מוצר גדול מ-פריימורק מת — בלי לכתוב אותו מחדש."_ → straight to S1.
+    - _(EN, meaning-check: today I'll show you how you move a large product off a dead framework — without rewriting it.)_
+  - _Cue:_ don't read the title — it's on the slide. One line, ~10s, memorize only this, then go to the code. Not an agenda; "5 years / still shipping" pays off at S1/S23, don't front-load.
 
 ## Slide 1 — The codebase (the problem)
 
@@ -39,8 +40,8 @@
   - Someone who was/is in this situation? Who had an old legacy code and wanted to migrate from it?
   - 🔒 אז רציתי לספר לכם שזה אפשרי.
   - _Cue:_ to the room, then stop.
-  - **→ Bridge → Bit 2 (say live):** _"לא עברנו בגלל הבלגן בקוד — לקוד מבולגן עושים ריפקטור. עברנו כי AngularJS עצמו הגיע לסוף הדרך."_ → S5.
-    - _(EN, meaning-check: we didn't move because of the messy code — messy code you refactor. we moved because AngularJS itself had reached the end of the road.)_
-    - _Cue:_ hand straight to S5's "why" — don't preview "one decision" (that's Bit 2's thesis → lives at S6/S8).
+  - **→ Bridge → Bit 2 (say live):** _"לא עברנו בגלל הבלגן בקוד — לקוד מבולגן עושים ריפקטור. אז למה כן עברנו?"_ → S5.
+    - _(EN, meaning-check: we didn't move because of the messy code — messy code you refactor. so why did we move?)_
+    - _Cue:_ pose the question, don't answer it — S5 is the payoff.
 
 _(Rationale, build behavior, design history → `design-notes.md`.)_

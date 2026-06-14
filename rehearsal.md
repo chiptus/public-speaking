@@ -2,13 +2,18 @@
 
 > Two things to practice differently:
 > **Verbatim (🔒)** — learn word-for-word. **Improv run** — speak from the trigger words only, never sentences.
-> The one fully-scripted stretch is the Bit 1 open (code-first: code → ship → intro → room). After that, four memorized drops — the Bit 2 seam, the fall quote, the takeaway, the finale — everything else is improvised off cues.
+> The one fully-scripted stretch is the Bit 1 open (title line, then code-first: code → ship → intro → room). After that, four memorized drops — the Bit 2 seam, the fall quote, the takeaway, the finale — everything else is improvised off cues.
 
 ---
 
 ## 1. Verbatim lines (🔒 — word-for-word)
 
 ### Bit 1 — the open (fully scripted, code-first order)
+
+**הכותרת (title slide)** — ~10s, then straight to the code
+> היום אני אראה לכם איך מעבירים מוצר גדול מ-פריימורק מת — בלי לכתוב אותו מחדש.
+
+*(אל תקרא את הכותרת מהמסך · שורה אחת ~10ש ואז לקוד · אל תקדים "5 שנים / עדיין שולחים" — פייאוף של S1/S23)*
 
 **הקוד (שקופית 1)** — screenshot of a giant AngularJS controller, callout: **391 components**
 > ככה נראה הקוד שלנו באנגולר — קונטרולרים ענקיים, כמעט לא מפורקים לקומפוננטות, הרבה כפילויות. 391 קומפוננטות להגר. התחלנו להעביר את זה לריאקט לפני חמש שנים. זה עדיין לא נגמר.
@@ -31,7 +36,7 @@
 > אז רציתי לספר לכם שזה אפשרי.
 
 *(לקהל, ואז עצור)*
-*(→ גשר לביט 2 — מילים שלך): איך מזיזים משהו כל כך גדול? החלטה אחת — ולא הבלגן. קוד מבולגן מתקנים במקום; אנחנו עברנו כי הקרקע מתחת נעלמה.*
+*(→ גשר לביט 2 — מילים שלך): לא עברנו בגלל הבלגן בקוד — לקוד מבולגן עושים ריפקטור. אז למה כן עברנו? → S5 (שאל — אל תענה; S5 הוא הפייאוף).*
 
 ### Bit 2 — the seam into "why it had to change" (שקופית 5)
 > וזה לא נגמר בבלגן.
@@ -55,13 +60,13 @@
 Everything below is **improvised** (except 🔒, where a memorized line drops in). Each line: **slide — what's on screen** → beats — *cue*. Read the triggers, make the sentence yourself. If you can run the whole talk from this list without reaching for full sentences, you're ready.
 
 ### Title card
-- **"AngularJS → React: Moving a Mountain Incrementally":** ~10s — moving a large product off a dead framework · incrementally · five years · still shipping — *not an agenda → go to the code*
+- **"AngularJS → React: Moving a Mountain Incrementally":** ~10s — 🔒 *move a large product off a dead framework — without rewriting it* — *don't read the title · not an agenda · don't front-load "5 years / still shipping" (pays off S1/S23) → go to the code*
 
 ### Bit 1 — Opening *(S1–S4 are 🔒 — see section 1; here so the run is complete)*
 - **S1 — giant AngularJS controller, "391 components":** the code · 391 to migrate · 5 years · not over yet — 🔒 *391 = stakes · let "not over" sit*
 - **S2 — big red ship, wordless:** the plank paradox · same ship? — 🔒 *ask, then stop · never say "Ship of Theseus"*
 - **S3 — name / role card:** Chaim · Portainer since 2018 — 🔒 → flat: 3–4 then · ~10–15 now · led it largely alone · never the priority — *slow, flat · "never the priority" pays off at S24*
-- **S4 — the S1 codebase, back as a callback:** audience Q: anyone here on legacy code? · pause → 🔒 *so I wanted to tell you it's possible* — *to the room, then stop* → bridge: how do you move something this big? one decision, not the mess →
+- **S4 — the S1 codebase, back as a callback:** audience Q: anyone here on legacy code? · pause → 🔒 *so I wanted to tell you it's possible* — *to the room, then stop* → bridge: didn't move for the mess — mess you refactor · so why *did* we move? (ask, don't answer — S5 pays off) →
 
 ### Bit 2 — The Decisions
 - **S5 — "Why it had to change," three lines (anchor: current line lit, rest dim):** 🔒seam → hard to hire (**the real trigger** — no dev starts on a dead framework) · refactor needed anyway · EOL deadline Dec 2021 (known since 2018 — we prepared, didn't react) — *escalation off Bit 1, not a restart*
@@ -89,5 +94,5 @@ Everything below is **improvised** (except 🔒, where a memorized line drops in
 - **S23 — dashboard full-screen on ~50% (no corner ship):** still migrating · progressing · learning · ~50% of the Bit 1 count — half the mountain · let it sit → 🔒takeaway, to the room → half the road's still ahead; less about the path behind →
 
 ### Bit 5 — What's Next
-- **S24 — one slide, two stacked rows:** *do differently (mine):* bottom-up small targets · guardrails-first e2e (pin behavior **before** migrating) · document & revisit decisions · show the team the progress  ‖  *what I'd need (NOT MINE TO GRANT):* a real priority — dedicated team (2 devs, 1 QA) · product in the loop — rank what matters, call what's dead — *let the structure carry it · don't say "in/out of my control"*
+- **S24 — one slide, two stacked rows:** *do differently (mine):* bottom-up small targets · guardrails-first e2e (pin behavior **before** migrating) · document & revisit decisions · show the team the progress  ‖  *what I'd need ("& not mine to grant"):* a real priority — dedicated team (2 devs, 1 QA) · product in the loop — rank which views matter, allow UX changes — *let the structure carry it · don't say "in/out of my control"*
 - **Finale — well-progressed ship (more blue than red, not finished), wordless:** 🔒last words → *say it, then stop* · Q&A anchors live in `slides/bit5.md`
